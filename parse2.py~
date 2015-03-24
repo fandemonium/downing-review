@@ -15,6 +15,7 @@ for x in f:
             word = word.lower()
             try:
                 word.decode('ascii')
+            except:
                 if set('[~ !@#$%^&*()_+{}":;\']+$').intersection(word):
                     continue
                 if len(word) < 7:
@@ -25,8 +26,6 @@ for x in f:
                     else:
                         d[word] = {}
                         d[word][x] = 1
-            except:
-                continue
 
 list_journals = []
 for x in f:

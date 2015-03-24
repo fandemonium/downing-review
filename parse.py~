@@ -22,7 +22,7 @@ l = sorted(list_journals)
 
 fp = open('summary.tsv', 'w')
 for x in l:
-    fp.write('%s\t' % x)
+    fp.write('\t%s' % x)
 fp.write('\n')
 
 
