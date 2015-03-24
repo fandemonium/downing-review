@@ -1,0 +1,42 @@
+ Writing a report
+
+As a general guideline, referee evaluations should mainly focus on the significance and conclusiveness of the study at hand, i.e. whether the findings and conclusions at the current stage might be considered sufficiently important in principle, and whether the presented data actually support these conclusions. Referees are prompted to assess these two points directly via a ratings table, in which they can also indicate whether or not they would need to see an eventual revised version before acceptance, and whether a manuscript would be of such particular interest as to warrant highlighting.
+
+Referees are asked to maintain a positive and impartial, but critical, attitude in evaluating manuscripts. Criticisms should remain dispassionate; offensive language is not acceptable. As far as possible, a negative report should explain to the authors the weaknesses of their manuscript, so that they can understand the basis for a decision to ask for revision or to reject the manuscript. Similarly, positive reports should explain the reasons for why a study would be seen as an important advance of wider biological significance. Please keep in mind that comments to the authors will be included and published in the 'editorial proceedings' supplementary file in case of publication, even if they may have been pertinent only to an initial version of the eventually published manuscript.
+
+The ideal report should include:
+
+    an initial paragraph that summarises the major findings and the referee's overall impressions, as well as highlighting major shortcomings of the manuscript.
+    specific numbered comments, which may be broken down into major and minor criticisms if appropriate (numbering facilitates both the editor's evaluation of the manuscript and the authors' rebuttal to the report).
+
+The report should answer the following questions:
+
+    what are the major claims and how significant are they?
+    are the claims novel and convincing?
+    are the claims appropriately discussed in the context of earlier literature?
+    is the study of interest to more than a specialised audience?
+    does the paper stand out in some way from the others in its field?
+    are there other experiments that would strengthen the paper?
+
+For manuscripts that may merit further consideration, it is also helpful if referees can provide advice on the following points where appropriate:
+
+    how the clarity of the writing might be improved (without necessarily going into specific details of spelling and grammar)
+    how the manuscript might be shortened
+    how to do the study justice without overselling the claims
+    how to represent earlier literature more fairly
+    how to improve the presentation of methodological detail so that the experiments can be reproduced
+    the submission of supplementary data on the The EMBO Journal web site to enhance the presentation (depositing, for example, crystallographic information, source code for modelling studies, microarray data, detailed methods, mathematical derivations, long tables and movies).
+
+This author report should not include a direct recommendation regarding publication, as the final decision regarding acceptance, revision or rejection rests with the editor.
+
+On the Referee's Evaluation Form in our online submission system, referees will find a text box for entering information about any co-referees involved in the evaluation, and a text box for writing/pasting the actual referee report. Placeholder text in that box is only meant to remind reviewers of the encouraged report structure, and should be overwritten.
+
+
+In your evaluation you may want to consider the following points:
+
+    Is the paper original?
+    Is it well written?
+    Are critical references given?
+    Is the length of the paper commensurate with the message?
+    Are all tables, figures, graphs and photographs necessary?
+    If applicable, is "Material and Methods" section adequately written and referenced?

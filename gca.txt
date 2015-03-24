@@ -1,0 +1,90 @@
+Reviewer guidelines
+
+You've been asked to review
+Conducting a review
+Communicating your report to the Editor
+Editors advice
+Ethics
+Confidentiality
+Originality
+Structure
+Previous research
+In need of help
+
+
+Ethics
+
+Plagiarism
+If you suspect that an article is a substantial copy of another work, please let the editor know, citing the previous work in as much detail as possible.
+
+Fraud
+It is very difficult to detect the determined fraudster, but if you suspect the results in an article to be untrue, discuss it with the editor.
+
+Other ethical concerns
+For medical research, has confidentiality been maintained? Has there been a violation of the accepted norms in the ethical treatment of animal or human subjects? If so, then these should also be identified to the editor.
+
+Visit our website on Ethics for more information
+
+
+Confidentiality
+
+Do not disclose to others
+Any manuscripts received for review must be treated as confidential documents. They must not be shown to, or discussed with, others except as authorized by the editor. Unpublished materials disclosed in a submitted manuscript must not be used in a reviewer's own research without the express written consent of the author. Privileged information or ideas obtained through peer review must be kept confidential and not used for personal advantage.
+
+Requesting the opinion of a single colleague may be appropriate in some circumstances but you should always let the editor know beforehand. Most editors welcome additional comments, but whoever else is involved will also need to keep the review process confidential. If the review is referred to a student, he or she should communicate directly with the editor.
+
+Peer review is confidential, and therefore information about the review (e.g. review reports, correspondence with the editor) cannot be shared with 3rd parties, unless the editorial policy of the journals explicitly allows for this, or permission is granted by the editors and authors of the article.
+
+Reviewer identity is generally not shared with the author
+Although journal practices vary, most journals do not share the identity of the reviewer with the author. To help us protect your identity, please do not reveal your name within the text of your review. It also implies you should not attempt to contact the author. 
+
+
+Originality
+
+Is the article sufficiently novel and interesting to warrant publication? Does it add to the canon of knowledge? Does the article adhere to the journal's standards? Is the research question an important one? In order to determine its originality and appropriateness for the journal, it might be helpful to think of the research in terms of what percentile it is in? Is it in the top 25% of papers in this field? You might wish to do a quick literature search using tools such as Scopus to see if there are any reviews of the area. If the research has been covered previously, pass on references of those works to the editor.
+
+
+Structure
+
+Layout and format
+Authors are required to adhere to the journal's Guide for Authors, which includes manuscript presentation. If the difference is extreme and the editor has not mentioned this issue in the request to review, you may wish to contact your editor to discuss it. Otherwise, you should note this in your review. If the paper is otherwise good, the editor may choose to overlook the formatting issues (for example, if the author comes from outside the discipline but has something valuable to convey to the readers of this journal). Other times, editors may ask the author to restructure the paper before publication. Title
+Does it clearly describe the article? 
+Abstract
+Does it reflect the content of the article?
+
+Introduction
+Does it describe what the author hoped to achieve accurately, and clearly state the problem being investigated? Normally, the introduction should summarize relevant research to provide context, and explain what other authors' findings, if any, are being challenged or extended. It should describe the experiment, the hypothesis(es) and the general experimental design or method. Graphical abstracts and/or highlights
+Where these are included, please check the content and if possible make suggestions for improvements. Do the figures and tables inform the reader, are they an important part of the story? Do the figures describe the data accurately? Are they consistent, e.g. bars in charts are the same width, the scales on the axis are logical. Follow these links for more information on graphical abstracts and highlights.
+
+Method
+Does the author accurately explain how the data was collected? Is the design suitable for answering the question posed? Is there sufficient information present for you to replicate the research? Does the article identify the procedures followed? Are these ordered in a meaningful way? If the methods are new, are they explained in detail? Was the sampling appropriate? Have the equipment and materials been adequately described? Does the article make it clear what type of data was recorded; has the author been precise in describing measurements?
+
+Statistical errorsThe most common errors are described here.
+
+ResultsThis is where the author(s) should explain in words what he/she/they discovered in the research. It should be clearly laid out and in a logical sequence. You will need to consider if the appropriate analysis has been conducted. Are the statistics correct? If you are not comfortable with statistics, please advise the editor when you submit your report. Interpretation of results should not be included in this section.
+
+Conclusion/Discussion
+Are the claims in this section supported by the results, do they seem reasonable? Have the authors indicated how the results relate to expectations and to earlier research? Does the article support or contradict previous theories? Does the conclusion explain how the research has moved the body of scientific knowledge forward?
+
+Language
+If an article is poorly written due to grammatical errors, while it may make it more difficult to understand the science, you do not need to correct the English. You should bring this to the attention of the editor.
+
+
+Previous Research
+
+If the article builds upon previous research does it reference that work appropriately? Are there any important works that have been omitted? Are the references accurate?
+
+
+In need of help
+
+Content
+Any queries relating to the content of the paper, please contact the journal editor or the editorial office.
+
+Technical issues
+For technical issues relating to the Elsevier Editorial System (EES), Elsevier has a reviewers' helpdesk that can be contacted or you can pick up the phone:
+
+The Americas: +1 888 834 7287 (toll free for US & Canadian customers)
+Asia + Pacific: + 81 3 5561 5032
+Europe & all other areas: +44 1865 84 3577
+
+Back to top

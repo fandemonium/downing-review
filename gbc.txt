@@ -1,0 +1,82 @@
+Reviewer Instructions
+
+Navigating the System
+
+When you first log into the system, you will be taken to your home page, also called your desktop. The manuscript you have agreed to review will be under Reviewer Tasks and will be marked with a red arrow. After clicking on this link, you will be presented with a manuscript screen containing:
+
+Reviewer instructions
+Manuscript details and files
+Review form (accessible by clicking on "Review manuscript" link)
+Printing the Manuscript
+
+When printing a copy of the manuscript pdf, modify print settings: Under Page Handing/Page Scaling, choose "Shrink to Printable Area." If you experience difficulties opening or printing files, contact Journal Staff.
+
+
+Review Criteria
+
+See the Eos feature article on writing a solid peer review. 
+
+Your review will begin with these four specific questions. We also ask you to upload or paste in a full formal review.
+
+
+1. Is the paper significant and convincing? (drop down options)
+
+-Yes, the science is at the forefront of the discipline
+
+-Yes, the paper is a significant contribution and worthy of prompt publication.
+
+-The paper has some unclear or incomplete reasoning but will likely be a significant contribution with revision and clarification. There are major errors or gaps in the paper but it could still become significant with major changes, revisions, and/or additional data.
+
+-No, the paper is not obviously a significant advance or contribution.
+
+-No, the paper is not strong and/or not appropriate for this journal.
+
+2. Do the methods, data, and analysis support the conclusions? (drop down options)
+
+-Yes
+
+-Mostly yes, but some further information and/or data are needed.
+
+-No
+
+3. Is the referencing appropriate? (drop down options)
+
+-Yes
+
+-Mostly yes, but some additions are necessary.
+
+-No
+
+4. Is the presentation high quality? (drop down options)
+
+-Yes, it is well-written, logically organized, and the figures and tables are appropriate.
+
+-The organization of the manuscript and presentation of the data and results need some improvement.
+
+-No, the writing, organization, and illustration make it too difficult to review.
+
+*Please be sure that the start of your formal review addresses the main claims and methodology of the paper.
+
+You may wish to consider these questions when writing your formal review. Answering them is not required:
+
+Is this paper appropriate for the journal?
+Are the interpretations and conclusions supported by the evidence presented? That is, are the assumptions valid, is the methodology sound, is the evidence adequate, and do the conclusions logically follow?
+Does this paper put the progress it reports in the context of existing published work? Is there adequate referencing and introductory discussion?
+Is the paper clearly and concisely written?
+Are all parts of the text, references, graphics and tables necessary for the new results and main points to be understood?
+Are the conclusions and potential impacts of the paper clear?
+Does the abstract clearly and concisely summarize the paper and state the main results? Can the abstract and main body of the paper each stand alone?
+Are the graphics and tables clear and their captions self-explanatory?
+Does the title adequately represent the content of the paper?
+
+Tips for Reviewers
+
+If you are unable to meet the deadline, please contact Journal Staff immediately.
+If you will be unable to review a manuscript for an extended period of time, please click "Modify Unavailability Dates" on the bottom of your home page. Enter in the date ranges for the appropriate month(s) and click "Submit Dates." On the next screen, you must confirm your unavailability dates and again click "Submit Dates.”
+Updating Your Profile
+
+You can change your profile and/or update areas of expertise by selecting Modify Profile/Password, under General Tasks, at the bottom of your home page.
+
+Getting Help
+
+If you need help, click on the help signs  or contact the Journal Staff. 
