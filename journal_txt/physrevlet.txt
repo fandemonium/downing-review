@@ -1,0 +1,14 @@
+
+    The editors often have specific comments or questions concerning the paper in question and may also enclose additional reference material. Please read them before your review, and address them either in your report or in additional comments to the editors.
+    Your report should contain both an assessment of the scientific soundness of the paper and an evaluation of its potential impact on the physics community. Inclusion of substantive arguments supported by concrete facts will strongly influence how the editors value and use your input.
+    Good presentation and wide readability are necessary, but not sufficient, qualities for a paper that is meant to influence the research activities of many readers. We ask you to consider the following questions: Does the introduction convey the basic physics issues addressed, and the primary achievements? Is the research placed in proper context? Are the references sufficient? Are assumptions clearly stated? Is jargon minimized? Do the title and abstract stand alone? Are tables and figures effectively presented?
+
+Advice regarding recommendations to the editors of the Physical Review:
+
+    Any paper that might move from PRL to the Physical Review should be evaluated in light of Physical Review editorial policy, which requires manuscripts to be scientifically sound, to significantly advance physics, and to be presented in satisfactory form. The editors discourage a series of short papers by the same authors on a particular subject, in favor of a single comprehensive article.
+
+Rapid Communications are intended for especially important results that deserve accelerated publication, and are therefore given priority in both the editorial and production process.
+
+Regular articles allow space for comprehensive discussion, but sometimes may be short.
+
+Brief Reports are short papers that provide accounts of completed research. The same standards of scientific quality apply as for other sections, but they do not warrant the priority handling given to Rapid Communications, and are inappropriate as regular articles. 

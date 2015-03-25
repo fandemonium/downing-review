@@ -1,0 +1,123 @@
+Instructions to Reviewers
+1. General  
+Every scientific article submitted to Medical Dosimetry is peer&#8208;reviewed by individuals
+selected for their knowledge of the topic of the article, and for their objectivity and
+experience in assessing the scientific merit and clarity of presentation of submitted
+publications. This section is directed towards appointed reviewers for appropriate and
+professional effort.
+The review should provide a critical and impersonal evaluation that includes suggestions
+to be considered and actions to be taken to make the article acceptable for publication.
+Remarks should provide both a general impression [General Comments] of the article
+and specific suggestions [Specific Comments] for the article’s improvement. Both
+categories of remarks may be shared anonymously with the Corresponding Author at
+the discretion of the Associate Editor or Editor&#8208;in&#8208;Chief.  Each remark should be
+numbered for ease of response from the Corresponding Author. The decision to accept,
+reject or require revisions shall not be stated by the Reviewer. The Associate Editor and
+Editor&#8208;in&#8208;Chief make this decision, and may over&#8208;ride the recommendation of the
+Reviewer as deemed appropriate.
+The Reviewer should also provide an overall appraisal of the article, and guidance
+regarding its disposition in the form of Comments to the Associate Editor. These remarks
+will not be shared with the Corresponding Author. It is here that a recommendation may
+be provided to the Associate Editor on the decision to accept, reject or require revisions.
+Again, this is a suggestion and not the decision.
+If it is believed that the article is unworthy of publication in Medical Dosimetry, reasons
+must be stated objectively, completely, and without prejudice. Critical comments are
+important in a review but they must always be presented in a respectful manner.  
+Please respond promptly to a request to serve as a Reviewer. Reviews must be
+completed no later than 2 weeks from the date of invitation. If you are unable to meet
+this requirement, please decline the invitation to review at your earliest opportunity so
+a replacement reviewer can be identified. A Reviewer may request removal from the
+Reviewer list at any time. If a Reviewer has been determined to decline requests for
+review regularly, the Associate Editor and Editor&#8208;in&#8208;Chief have the right to remove the
+person from the Reviewer List.
+All reviews are completed electronically by following the link
+http://ees.elsevier.com/meddos, which is also where articles to be reviewed are
+accessed. The review process allows one to paste in a word document of the Review if
+there is a preference to develop the review off&#8208;line. The review process is freeform, but
+2
+the evaluation should include comments regarding the manuscript’s accuracy,
+originality, scientific completeness, clarity, succinctness of the writing, quality and
+necessity of all illustrations and tables, comprehensiveness of the literary review, format
+of the paper and references, relevance of the title and abstract, appropriateness of the
+subject material to the journal, and any other issues you feel are important. In such
+comments, please distinguish between suggestions for changes that may improve the
+manuscript, and mandatory changes required to make the manuscript acceptable for
+publication (if any exist).   
+The article should present original, previously unpublished information. If there is
+evidence to the contrary, the Reviewer should cite references that provide the evidence.
+The Reviewer should be particularly alert to information in the article that might have
+been taken from another publication without an appropriate reference.
+Estimates and computations should be verified in the manuscript. Conclusions drawn
+from data should be confirmed to be plausible. References should be pertinent to the
+manuscript and expressed accurately and completely. It is the responsibility of the
+Reviewer to be familiar with and address any issues relating to Corresponding Author
+Guidelines that are not in accordance with journal policy. The Reviewer should cite the
+policy where applicable.
+The Reviewer should be alert to any negative comments by the Corresponding Author
+towards the work of others; as such comments are not appropriate for articles in
+Medical Dosimetry. The Reviewer should also guard against negative comments towards
+the article under review; general and specific comments by the Reviewer can point out
+shortcomings of an article without denigrating the article.  
+It is not necessary for the Reviewer to identify misspellings, typographical errors or
+grammatical misconstructions, unless these are technical in nature and might not be
+picked up during the copyediting process. Routine misspellings and other grammatical
+errors will be corrected by the Copy Editor. However, if the Reviewer believes that the
+English needs to be improved, they may request the Corresponding Author to acquire
+professional assistance, for which English is their first language, in reviewing the paper
+before a revision is submitted (adapted from http://www.medphys.org/refguide.asp).
+1. Decision Types – Criteria and Associated Actions
+a. Accept
+Criteria:
+The manuscript meets all requirements for immediate publication. Manuscript
+represents publication quality “As is”.
+Action:
+2
+3
+Manuscript will proceed directly to the publisher.
+b. Accept/Minor Revision
+Criteria:
+Manuscript requires only minor changes or non&#8208;substantive
+clarification/modification. Changes require only verification of compliance by
+Associate Editor. The Reviewer does not have access to suggest modifications prior
+to publication. The manuscript proceeds directly to the Medical Dosimetry Review
+Board for Relevancy score.
+Action:
+Manuscript is returned to Author for minor revision. Upon resubmission, the
+Author’s point&#8208;by&#8208;point responses to the reviewer comments are verified for
+compliance. Once verified, the manuscript proceeds directly to the Medical
+Dosimetry Review Board for Relevancy score.
+c. Major Revision
+Criteria:
+The manuscript demonstrates deficiencies which require significant re&#8208;
+work/modifications before a review can be considered further. The Corresponding
+Author must address the Reviewers concerns and submit a manuscript revision. No
+manuscript may receive this decision more than twice. (However, a decision of
+rejection is mandatory.)
+Action:
+The manuscript is returned to the Corresponding Author for major revision. Upon
+resubmission, the Corresponding Author’s point&#8208;by&#8208;point responses to the
+Reviewer’s comments and the revised manuscript are returned to the Editor&#8208;in&#8208;Chief
+for re&#8208;processing.
+d. Reject
+Criteria:
+The manuscript does not meet the minimum publication criteria and demonstrates
+weaknesses so egregious that modification to bring the manuscript into feasible
+publication is not perceived possible, efficient or advantageous. This may be the
+result of a manuscript having been found to (1) have been previous published/in
+press, (2) provides absolutely no new or inventive data or procedures which add to
+the current literature, or (3) is simply scientifically unsound.
+Action:
+3
+4
+The manuscript is returned to Author as rejected.  Decision considered final barring
+appeal by Author.
+e. Reject – Out of Scope
+Criteria:
+The subject matter of the submission does not fall within the scope of Medical
+Dosimetry. Rejection is declared on this basis and is without prejudice. No statement
+of quality will be rendered. Should a Reviewer recommend this decision, they need
+only to state the reason why he/she believes the submission is out of scope. A full
+review need not be performed.
+Action:
+The manuscript is returned to the Corresponding Author as “Rejected – Out of
+Scope.. No appeal is permitted.

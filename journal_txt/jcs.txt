@@ -1,0 +1,96 @@
+Reviewer Guidelines
+Click here to access Reviewer Area and/or submit your review
+
+Reviewing for JCS
+Guidelines for reviewing Research Articles and Short Reports
+Guidelines for reviewing Commissioned Articles
+Commentaries
+Opinions or Hypotheses
+Cell Science at a Glance Poster Articles
+Reviewing for JCS
+Unbiased, independent, critical assessment is of vital importance in scholarly publishing and, as such, JCS adheres to The Company of Biologists' editorial principles and to the guidelines on publishing objective and unbiased scientific information set by COPE (the Committee on Publication Ethics). For more information on the principles that are of relevance to reviewers (including confidentiality and competing interests), please visit our publishing ethics policy webpage.
+
+ 
+
+JCS encourages the involvement of postdocs and other early career scientists in the peer review process. We simply ask that: the name of the co-reviewer is reported to the Editor; the same rules of confidentiality and conflict of interest be applied; there is a genuine mentoring process; and the senior invited reviewer takes responsibility for the report delivered to the journal.  
+
+ 
+
+Guidelines for reviewing Research Articles and Short Reports
+JCS asks reviewers of Research Articles and Research Reports to offer two types of advice. The first concerns a paper's originality and the quality of its science. The second concerns whether a paper is of sufficient interest for publication in JCS and whether it provides a sufficient advance in our understanding of cell biology. Please also bear in mind the following points.
+
+1. The single most important criterion for publication in JCS is scientific excellence. In general, this means that a manuscript must pose and test a significant hypothesis that is relevant to basic issues of cell biology. Studies lacking such a contribution, no matter how meticulous, are not acceptable for publication. Short Reports, although shorter in length, should still report a significant advance that furthers our understanding of cell biology.
+
+2. JCS does not publish purely descriptive articles, such as those reporting the expression pattern of specific genes or localisation of specific proteins in particular cell types. Articles that demonstrate the effect of a particular substance on a given cell line must also provide significant mechanistic information and be of broad significance. Articles establishing a method, technique or cell line should also provide a significant application of the method.
+
+3. JCS requests that authors limit the amount of supplementary data that they present, and therefore, reviewers should consider whether supplementary data is necessary and should be incorporated into the main body of the paper. We only accept data files as supplementary material, typically movies and datasets. We do not accept text files as supplementary material.
+
+Papers rejected from JCS may be transferred, with the authors' approval, to The Company of Biologists’ new journal Biology Open for editorial review. In this case, the authors may choose to make the reviewers' reports available to the Biology Open Editors. By passing on reports, our aim is to reduce the burden on authors and reviewers by avoiding the multiple rounds of review often encountered on a paper's route to publication. Reviewers may choose whether to remain anonymous to the Biology Open Editors (reviewers are always anonymous to authors). Named reviewers will not be approached for further review by Biology Open.
+
+ 
+
+Guidelines for reviewing Commissioned Articles
+Please note that it is difficult for us to reject commissioned manuscripts based on a reviewer's general lack of enthusiasm. If you have specific concerns or objections, please do make these clear in your report.
+
+ 
+
+Commentaries
+Please bear in mind the following points when refereeing a Commentary:
+
+1. Does the title clearly reflect what the article is about?
+
+2. Are the author's arguments logically and coherently made? Are counterbalancing viewpoints acknowledged and discussed?
+
+3. Does the author provide new insight into the topic being reviewed?
+
+4. Are there any inappropriate omissions - i.e. are all the relevant key experiments and hypotheses covered?
+
+5. Is the article too long? If so, what could be removed or condensed?
+
+6. Is the article adequately and appropriately referenced?
+
+7. Is the information provided in figures, figure legends, boxes and tables clear and accurate?
+
+ 
+
+Opinions or Hypotheses
+Please bear in mind the following points when refereeing an Opinion or Hypothesis:
+
+1. Does the author introduce and explain the topic under discussion sufficiently well to enable readers to place the new opinion/hypothesis into the context of the field as a whole?
+
+2. Does the author present coherent and well-supported arguments to support their opinion or theory?
+
+3. Does the author acknowledge any shortcomings in the hypothesis or opinion and does s/he propose ways in which it could be tested experimentally?
+
+4. If a debate exists in the field under discussion, are opposing viewpoints presented in a fair and balanced manner?
+
+5. Does the author's hypothesis or opinion provide new insights into the cell biological process being discussed?
+
+6. Is the article adequately and appropriately referenced?
+
+7. Is the article too long? If so, what could be removed or condensed?
+
+8. Is the information provided in figures, figure legends, boxes and tables clear and accurate?
+
+ 
+
+Cell Science at a Glance Poster Articles
+The poster is the main focus of this article type, and is meant to be a ‘stand-alone’ resource. It should therefore be understandable in isolation from the text. The poster will be printed four times journal size, so the author should display much more information than they would in a normal figure. In addition, the online version may be accompanied by JPEG files of individual poster panels that can be downloaded for use in slide presentations, etc. A single scheme is acceptable for signalling pathways, etc., but authors are encouraged to include additional panels and insets, and so please indicate on your report if there are additional elements that would improve it. Please note that all posters are redrawn following peer review.
+
+The text should introduce the field and summarize what is displayed in the poster; it can also expand on the essential information depicted in the poster. The author must present an unbiased view of the field and specifically mention anything displayed in the poster that is controversial.
+
+Please keep in mind the following points:
+
+1. Are the author's explanations of the topic accessible to a non-specialist audience?
+
+2. Are the author's points logically and coherently made and all appropriate viewpoints acknowledged?
+
+3. Does the author cover all the necessary aspects of the topic and provide an up-to-date account?
+
+4. Can the poster be understood in isolation from the text?
+
+5. Is there anything missing from the poster? Or is there too much/unnecessary information?
+
+6. Does the poster convey a clear message?
+
+7. Can you envisage people putting the poster up in their labs as a ‘go-to’ reference on the subject or using the PowerPoint slides as a teaching resource?

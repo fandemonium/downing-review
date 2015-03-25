@@ -1,0 +1,39 @@
+Log in to Editorial Manager as a Reviewer and access the manuscript under “Pending
+Assignments.”
+Under the “Action” link for the manuscript click "Submit Recommendation."
+Please rate the overall aspects of the manuscript. Insert your Comments to the Author and
+Confidential Comments to the Editor in the appropriate boxes. Your review will be anonymous
+unless you sign the comments to the author—and we encourage you to identify yourself to the
+authors by signing the review.
+You may embed comments directly in a digital copy of the manuscript and upload this as an
+attachment. When you click “View Submission” there is a link to the manuscript in its original
+word processing program, which you may download to edit. All annotated manuscripts are
+"sanitized" [i.e., all identifying information is removed] automatically by Editorial Manager, and
+that is the only copy the authors may access. If you edit the manuscript, please also summarize
+your main points in the comment box to the author.
+When you have completed the review form and selected a recommendation from the pull-down
+menu at the top of the screen, click "Proceed."
+CONTENTS OF YOUR REVIEW:
+In addition to providing detailed feedback for the authors, please consider the following as you
+evaluate the paper:
+! What are the major contributions of this paper (what significant question has been
+addressed, what hypothesis tested, what conceptual advance made)? Would you
+recommend this paper to a colleague to read? Why or why not?
+! Is the research question novel and interesting within its botanical subdiscipline? Is it
+clearly stated in the abstract and introduction (in the form of hypotheses), and revisited
+in the discussion?
+! Is this paper also of interest to a non-specialist reader of AJB? If so, is the general
+message included in the abstract, introduction, and discussion?
+! Are the methods (e.g., experimental design) sound and repeatable? If statistics are used,
+are they appropriate? Are the statistical values, dfs, and p-values reported (either in the
+text or in tables)?
+! When appropriate, are voucher specimens included (either in the text or in an Appendix)?
+! Are the tables, figures, and online supplements (when included) accurate and useful? Are
+they clearly presented? Are the titles and legends self-explanatory without referring to
+the text? Is anything missing that would be helpful to the reader? Should any data be
+moved from tables to online supplemental material?
+! Do any portions of the paper need shortening, deleting, expanding, or rearranging? Please
+provide specific suggestions.
+In the Confidential Comments to the Editor, please state what is the most significant
+contribution of this paper. Please also include a summary of the most critical points supporting
+your recommendation. Thank you for your support of the peer-review process!

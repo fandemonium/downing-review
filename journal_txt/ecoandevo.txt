@@ -1,0 +1,210 @@
+Reviewers
+Reviewers (referees) are subject area experts who are asked to evaluate an article.
+Their responsibilities are to:
+
+provide a detailed, objective report on the merits of an article;
+
+identify flaws in the design of the research, and in the analysis
+and interpretation of results;
+
+highlight ethical concerns;
+
+comment on the appropriateness of the literature cited; and
+
+offer their view on the suitability of an article for publication in the journal
+to which it has been submitted
+
+Invitation
+When invited to review an article there are a few key questions to consider before
+accepting the invitation:
+
+Does the subject area of the article match my expertise?
+
+Do I have time to review within the timescale requested by the journal?
+Many journals ask for articles to be reviewed within 2-3 weeks, although others
+request shorter turnaround times. Be realistic!
+
+Do I have any conflicts of interest that might prohibit me from reviewing the
+article objectively? (See also Publication ethics.)
+
+Do I actually want to review this article?
+If there are any reasons for declining the invitation respond straight away. It is OK
+to say no, and better – for you, the journal and the authors – than not replying to an
+invitation or committing only half-heartedly, procrastinating over the review and
+submitting it late or not at all.
+If you want to review the article, it is important to commit the time needed to
+make it a thorough review. Should you find circumstances arise whereby your
+review will be late or you are no longer able to honour your commitment, inform the
+editorial office at your earliest opportunity.
+
+Basic principles
+Having agreed to review there are some basic principles to follow:
+
+Always treat the paper with the utmost confidentiality
+
+Take an objective, independent approach to the work, putting aside subjective
+feelings about the topic and the authors, if known to you
+
+Be attentive to the task as your report will influence the decision on the article,
+which may have an impact on the career of the author(s) or the reputation of
+the journal
+
+Your role is to improve the science in scholarly publications and critical
+scrutiny of the article is essential
+
+Provide evidence, where appropriate, for the statements you make in your report
+
+Be careful when writing a report to use simple language so that authors can
+understand your comments, even if English is not their first language
+
+Always conduct the review professionally, courteously, collegially and politely
+
+Never contact the authors directly; all correspondence should be via the editorial
+office
+How to get started
+If you have not reviewed for a particular journal before, read the aims and scope of
+the journal and consult the reviewer guidelines. Also look at the form the journal asks
+reviewers to complete to find out which questions you are expected to answer and
+the specific issues that you are being asked to comment upon.
+The majority of your report will be free-text comments to the authors and
+confidential comments to the editor.
+Before looking in detail at each section in the article,
+read it from start to finish:
+
+this will give you an overview and provide a clear understanding of everything the
+article covers.
+Writing the report
+Overview comments
+After reading the article it is useful to ask yourself the following questions:
+
+Is there a clear and valid motivation for the study?
+
+Is the research question/hypothesis/prediction of the research clearly
+presented?
+
+
+Does the research follow logically from prior knowledge? Is it timely, and does it
+have the potential to advance the field?
+
+Is the article appropriately structured and clearly presented?
+
+Can you easily summarise the key message in the article?
+
+Does the title reflect the contents and is it engaging?
+
+Does the article fit with the scope of the journal that has asked you to review it?
+
+Does it take account of relevant recent and past research in the field?
+
+Is there significant overlap with material that has previously been published?
+Your answers to these questions should form the opening comments in your report.
+Detailed comments
+Most articles are structured into sections commonly labelled ‘summary/abstract’,
+‘introduction’, ‘methods’, ‘results’ and ‘discussion’. There may also be a ‘conclusion’.
+It is recommended that you take a methodical approach to assessing the article by
+appraising each section in turn. In your comments remember to provide evidence for
+the statements you make, whether positive or negative.
+Summary/abstract
+
+Is it concisely written?
+
+Does it provide a clear overview of the work?
+
+Does it contain the essential facts from the paper?
+
+Does the final point place the work described in a broader context, highlighting
+its significance?
+Introduction
+
+Does this provide a clear, concise background to the study?
+
+Does it enable you to understand the aims of the study and hypotheses
+questions the authors are exploring?
+
+Have the authors elaborated sufficiently on the context in which the work is set?
+
+Has the motivation for the work been adequately explained?
+
+Is there satisfactory citation of prior literature?
+
+Methods
+
+Is the methodology sound?
+
+Have the procedures followed been sufficiently described?
+
+Is there enough detail here for the study to be replicated?
+
+Is it clear what was recorded and which units of measurement were used?
+
+Are the statistical design and analyses appropriate?
+
+Have important details been left out?
+
+Where appropriate, has ethical approval been obtained for the work?
+Results
+
+Are the results provided in a form that is easy to interpret and understand?
+
+Have results for all the questions asked been provided?
+
+Are the data of sufficient quality and quantity?
+
+Are the figures and tables appropriate?
+
+Have the correct units of measurement been used?
+Discussion and conclusions
+
+Have the authors answered their research question(s)/hypotheses?
+
+Are the conclusions drawn from the results justified?
+
+Has the significance of the study been fully explained?
+
+By how much has this study advanced the current understanding of the science?
+
+Summary points
+
+Be objective
+
+Include details of what is good about the article, but also highlight any
+problems
+
+Look for the novelty and importance of the work
+
+Recognize that no study is perfect
+
+Be constructive
+
+Be thorough and thoughtful
+
+Evaluate both the quality of the ideas and experimental details/results
+
+Be specific and factually accurate
+
+Recognize opinion versus fact
+
+Be civil
+
+Post Review
+
+Whenever possible agree to journal requests to review revisions or
+resubmissions of articles you have previously reviewed. This helps provide
+consistency of view and you are best placed to determine whether advice has
+been followed.
+
+Do not include anything that appears to be a decision about the paper in
+your comments to the authors. The decision is made by the editors who need to
+consider many criteria when deciding which papers to accept and reject.
+
+As a courtesy to reviewers, most journals will copy the other reviewers’
+comments to you. From these you will learn how different people review
+papers and read comments about issues that you may have missed.
+
+The journal will never reveal your identity to authors without your permission.
+However, if you have signed your review and a dispute arises about a decision on
+the article that you have reviewed, you should not enter into discussion with
+authors, but advise them to contact the editorial office. The journal will follow
+best practice guidelines (e.g. those provided by the Committee on Publication
+Ethics (COPE)) in dealing with difficult and delicate situations. Journals do not
+handle disputes over decisions often

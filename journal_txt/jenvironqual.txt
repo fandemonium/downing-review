@@ -1,0 +1,136 @@
+Guidelines and Instructions for Journal of Environmental Quality Reviewers
+Thank you very much for agreeing to review a manuscript for the Journal of Environmental Quality (JEQ). Of primary importance is your recommendation as a reviewer. Please provide appropriate, professional, and helpful comments to the author. The Associate Editor, Technical Editor, and Editor appreciate and rely on your recommendation.
+This document serves as a set of general guidelines and instructions for you to evaluate manuscripts for JEQ. Remember that in addition to these general guidelines and instructions, manuscripts must conform to requirements set forth in the Publications Handbook and Style Manual, which is available online at https://dl.sciencesocieties.org/publications/style. Another useful source in the review process is the JEQ Instructions to Authors, which is available at https://dl.sciencesocieties.org/publications/jeq/author-instructions.
+Scope of Journal of Environmental Quality
+Journal of Environmental Quality publishes peer-reviewed articles reporting original research or reviews and analyses dealing with aspects of environmental quality in natural and agricultural ecosystems. The focus of JEQ is anthropogenic impacts on the environment, including
+terrestrial, atmospheric, and aquatic systems. Emphasis is given to the understanding of underlying processes. To be acceptable a manuscript must make a significant contribution to the advancement of knowledge or toward a better understanding of existing processes and concepts related to environmental quality. The study should define principles of broad applicability, be related to problems over a sizeable geographic area, or be of potential interest to a representative number of scientists. Site-specific environmental monitoring or observation studies are only acceptable if (i) the data are put into context to allow a better understanding of environmental concepts, (ii) the study provides data of a unique phenomenon or difficult to obtain information (e.g., extremely hazardous materials such as dioxin or plutonium), or (iii) the data test an untested hypothesis.
+Vision of Journal of Environmental Quality Editorial Board
+Enhance the manuscript review process making Journal of Environmental Quality the outlet of choice for authors to publish cutting-edge science related to environmental quality.
+General Description of Reviewer’s Responsibilities
+The volunteer peer reviewer evaluates submissions for technical and intellectual content. The review will be fair, unbiased, rapid, and confidential. The reviewer evaluates the manuscript in terms of the appropriateness of the subject. In this connection, original research findings suitable for publication in the journal are interpreted as the outcome of scholarly inquiry, investigation, or experimentation having as an objective the development of new concepts; the revision, refinement, extension, or verification of existing concepts; the application of existing concepts to new situations; or the development of new or improved techniques. The reviewer also determines whether a manuscript meets the high standard of quality of JEQ. Quality includes originality of subject or application, appropriateness of methods, accuracy of mathematical equations and computations, validity of conclusions, organization of subject matter, clarity, and communicational competence. The reviewer understands that the reward of
+the review process is the circle of scientific communication shared by publishing and reviewing scientists. The reviewer performs his/her tasks in a timely manner with excellence, bearing in mind that he/she has benefited from this service in the past and is returning this service to the scientific community and advancing the profession.
+To become a reviewer, contact the JEQ Editor. Provide your contact information; areas of expertise, scientific knowledge, and research interests; key words of your specialty area; and CV.
+To update your reviewer information, do so at the appropriate Manuscript Central website(s): https://mc.manuscriptcentral.com/jeq.
+&#65532;&#65532;
+Guiding Principles in Decision Process
+An acceptable manuscript will meet the following general criteria:
+&#9633; It reports a worthwhile contribution to the advancement of knowledge or toward a better understanding
+of existing processes and concepts related to environmental quality. The study should define principles of broad applicability, be related to problems over a sizeable geographic area, or be of potential
+interest to a representative number of scientists.
+&#9633; Sound methodology was used and is explained with sufficient detail so that other capable scientists could repeat the experiments.
+&#9633; Conclusions are supported by data.
+&#9633; It is concise (i.e., preferably < 8000 words, where each table or figure is equivalent to 300 words and if
+a figure has more than 3 panels or subfigures, then 300 words are added for each group of 3 panels or sub-figures), well written, and understandable.
+If the novelty of the work presented is low and the paper is not worthy of publication due to lack of originality, then the manuscript can be released. However, it is not sufficient to release a paper for lack of originality and merely state that the paper presents nothing new. The reviewer must provide a reference that shows the work has been done before or that the information presented does not add to the base of knowledge.
+The ideal review will be fair, unbiased, prompt, and confidential. Reviewers should approach the paper in terms of questions such as: “Is the science good?” and “Is it understandable?” or “What is needed to make it clear?” rather than “What are all the little things that annoy me in style or presentation?”
+The JEQ Editorial Board conducts a single-blind review process. Please excuse yourself from reviewing a manuscript if there is a conflict of interest and you can answer “yes” to one or more of the following questions (adapted from the USDA–ARS).
+&#9633; Have you had significant and acrimonious disagreements with the authors in the past?
+&#9633; Are the authors and you co-investigators on a current research project?
+&#9633; Have the authors and you jointly published an article in the past 5 years?
+&#9633; Are you close friends with one or more of the authors?
+&#9633; Are you working in the same area of research with the authors so that you might be considered to be a competitor or gain an advantage by reviewing the manuscript?
+&#9633; Do you work at the same location as the authors?
+&#9633; Did you review the manuscript as a peer reviewer prior to its submission to the journal?
+In summary, ask yourself if there is a possibility or appearance of a conflict of interest by you reviewing this manuscript and if so then you should decline an invitation to review.
+Use the Following Guidelines to Evaluate the Abstract
+Abstracts are required for all articles in JEQ. They are often republished as printed by secondary abstracting services and journals. The abstract, therefore, should meet two requirements. A reader should be able to determine readily the value of the article and whether or not to read it completely. It also should provide the literature searcher with enough information to assess its value and to index it for later retrieval. The abstract consists of 1-2 sentences each for the (i) justification or rationale for conducting the work, (ii) objective, (iii) significant results (present quantitative results), (iv) discussion of results, and (v) conclusion.
+The abstract should:
+&#9633; Stand on its own and give a clear idea of the research and the most important findings in the paper. &#9633; Strive for an impersonal, noncritical, and informative account.
+&#9633; Give a clear, grammatically accurate, exact, and stylistically uniform treatment of the subject.
+&#9633; Provide a rationale or justification for the study by briefly stating the purpose, need, and significance
+of the investigation (hypothesis or how the present work differs from previous work).
+&#9633; State the objectives clearly, as to what is to be obtained.
+&#9633; Give a brief account of the methods, emphasizing departures from the customary. Be specific. &#9633; Identify scientific names of plants, other organisms, and chemicals.
+&#9633; State results succinctly.
+&#9633; State conclusions or recommendations and link this to the significance of the work. Including new
+theories, interpretations, evaluations, or applications is encouraged.
+&#9633; Be as quantitative as possible and avoid the use of general terms, especially in presenting the methods
+and reporting the results. For example, if two rates of a treatment are used, state what they are. &#9633; Never cite references or figures.
+&#9633; Contain about 200 to 250 words for all articles. There is a 250-word maximum for abstracts.
+Use the Following Guidelines to Evaluate the Remainder of the Manuscript
+General Content
+&#9633; Does the title of the paper clearly reflect its contents, and is it from 6 to 12 words in length? The title should begin with high-impact words rather than words such as “Effects of” or “Influence of.”
+&#9633; Is the content of the manuscript worthwhile? If not to you, is there a segment of the journal's readership that would find it worthwhile? (Sometimes more experienced and established reviewers underestimate the value of manuscripts that might prove invaluable to those in new areas of environmental science and related earth sciences.)
+&#9633; Do you feel that the author(s) reviewed the existing literature adequately but not exhaustively? Do you know of any references the authors might want to refer to and discuss? Are references listed according to the style manual? Are all references cited listed in the reference list and vice versa?
+&#9633; The manuscript should conform to instructions in the Publications Handbook and Style Manual, available online at https://dl.sciencesocieties.org/publications/style.
+Quality of Writing
+&#9633; Clarity is vitally important. Manuscripts with sound science must also be well written to be acceptable. Whether you are an expert in the subject discussed or not, you should understand the paper’s content. Read each paragraph carefully. Is there likely to be confusion? If so, request that the author clarify. If you have some suggested revisions, these are usually appreciated by authors, but please do not feel obligated to rewrite the manuscript.
+&#9633; Do the paragraphs flow smoothly? Is the manuscript readable? Can you make suggestions for improvement? (Suggest using active voice.)
+&#9633; Is there unnecessary repetition? Can you suggest deletion of sentences, phrases, or words that add little to the paper?
+&#9633; Are enough examples provided to assist readers in relating to the author’s ideas? Can you suggest some examples that the author might want to include in his or her revision?
+&#9633; What parts of the manuscript do you really like? Let the author(s) know. This is critically important, in that some authors may be a little shocked to note the quality standards we strive to adhere to in JEQ.
+Technical
+&#9633; Is the paper acceptable in terms of methods, procedures, and so forth? If not, how you would have done it?
+&#9633; Have all measurements been reported in SI units? (Corresponding units may be shown in parentheses after each SI unit.)
+&#9633; Are Latin names shown for all plants, insects, or pathogens when first used?
+&#9633; Is nomenclature given for soils when first used?
+&#9633; Are full chemical names given for pesticides when first used?
+Statistical
+&#9633; Does the experiment have true replication of treatment combinations? A replication is the smallest unit to which a treatment combination is applied randomly.
+&#9633; Did the experiment include environmental replication (i.e. multiple sites and/or years) for measured variables, which are sensitive to environmental effects?
+&#9633; Did the authors appropriately declare fixed and random factors in their experiment? A fixed factor can be repeated exactly if the experiment were to be run again. Examples of fixed factors are fertilizer or pesticide rates. A random factor is best thought of as coming from a distribution and thus cannot be necessarily repeated exactly. Years and locations are usually, but not always, considered as random
+&#65532;
+factors.
+Modeling
+&#9633; In general, modeling papers must provide observation data for model validation. In cases where observation data may be difficult or impossible to obtain due to health and safety reasons or prohibitive cost, an uncertainty analysis (i.e., Monte Carlo simulations or first order uncertainty analysis) is required for acceptance. Modeling papers are evaluated on a case-by-case basis with flexibility given to the editors. Even so, observed data to validate models is generally a requirement.
+Tables and Figures
+&#9633; Are all the tables and figures necessary? If so, are they understandable? If not, could you suggest another format? Would you suggest additional tabulated data? (Keep in mind that tabulated data are not mandatory.) Are the tables and figures self-explanatory with sufficiently detailed captions?
+&#9633; Are figures (or photographs) of good enough quality for reproduction in the journal? Figures may be reduced 25 to 75%; are the font sizes large enough to be readable when reduced?
+Additional Editorial Concerns
+&#9633; Is there an abbreviations list? All abbreviations that are used three or more times in a paper (except chemicals, SI units, and commonly accepted abbreviations listed in the style manual, chapters 2 and 4) should be listed and defined in a separate, unnumbered footnote—typed after the abstract—that will appear in the journal at the beginning of the paper.
+Possible Decisions
+&#9633; Accept for publication without change or with minor alteration to be left to the author.
+&#9633; Revise with due attention to comments of reviewers before acceptance for publication. In this case the
+revised manuscript does not need to be reviewed again but authors must respond to all reviewers’
+requests and concerns. The authors’ revisions and responses must satisfy the scrutiny of the editors.
+&#9633; Release because not in suitable condition for a detailed review. In this case the manuscript is released
+due to lack of clarity, poor structure (i.e., lacks an abstract, introduction, materials and methods, results, or discussion of results), poor English grammar, failure to adhere to general format and style requirements, and/or etc.
+&#9633; Release to the author for scientific reasons. The manuscript is scientifically flawed, technically unsound, or lacks sufficient scientific rigor for acceptance. A manuscript can also be released due to a lack of novelty. A primary criterion for acceptance is that a manuscript must make a “significant contribution to the advancement of knowledge and toward a better understanding of existing processes and concepts related to environmental quality.” The contribution must be sufficiently significant to warrant publication.
+&#9633; JEQ does not have a category for major revision and re-review of a manuscript. All manuscripts that fall into this category should be released by the reviewer and it should be indicated in the reviewer’s comments to the editors that the authors are encouraged to make major revisions according to the reviewer’s comments and resubmit their manuscript.
+Remember...
+&#9633; Please return your comments and recommendations to the Associate Editor before the deadline (30 days from date manuscript was assigned to you).
+&#9633; Do not allow the manuscript to be reproduced while in your custody.
+&#9633; Reviewers are not asked to rewrite a poorly written manuscript but suggestions to improve clarity are
+extremely helpful and appreciated. Manuscripts can and should be released if the clarity or quality of
+the English grammar prevents a clear understanding of the work.
+&#9633; Reviewers will remain anonymous.
+&#9633; Prompt attention to manuscripts is appreciated both by the authors and by the Editors.
+Guidelines for Professional and Ethical Conduct of the Review Process of ASA, CSSA, and SSSA Journals
+Scientists agree that peer review is a cornerstone of scientific progress. As such, participating in the peer review process of ASA, CSSA, and SSSA journals is a privilege and a responsibility. A professional,
+objective, and thorough review process will benefit us as publishing researchers, improve the professionalism of our community, and enhance the quality of our published research. In agreeing to serve, one agrees to the following code of conduct, with the understanding that failure to serve in this capacity may lead to dismissal as a future reviewer for JEQ:
+&#9633; I will execute to the best of my ability all tasks that are within my area of responsibility.
+&#9633; In my capacity I will work to maintain the integrity of the peer review process to ensure that the
+manuscript receives a thorough, quality review in accordance with the high scientific standards of the
+journal.
+&#9633; I will execute my role within the specified schedule of the journal, understanding that failure to do so
+would detract from the quality of the journal and retard the professional development of the authors
+affected by a delay.
+&#9633; I will not directly communicate with authors of the manuscript that I am reviewing.
+&#9633; I will provide review comments that are respectful and presented in a professional manner, including
+substantiating comments with published sources and understanding that I represent the journal and the Society(ies) through my tone and attitude. I understand that criticism of a manuscript should not extend to personal criticism of the author(s).
+&#9633; I will review each manuscript with impartiality, without regard to gender, race, ethnicity, religion, nationality, institutional affiliation, or other similar bias.
+&#9633; I will evaluate manuscripts on the basis of scientific merit, with the understanding that there may be many acceptable ways to prove a hypothesis. I will respect the independence of authors and their creativity and understand that differences of opinion can be addressed in published comments within the journal as a forum for scientific debate.
+&#9633; I will treat the manuscript in review as a confidential document, and neither disclose its contents outside the context of the review process, nor use its contents in my own work.
+&#9633; I will avoid conflicts of interest and the appearance of conflicts of interest stemming from my relationship with the author or professional and financial circumstances that may bias my approach to a manuscript.
+&#9633; Return your comments and recommendations to the Associate Editor before the deadline (30 days from date manuscript was assigned to you).
+&#9633; Do not allow the manuscript to be reproduced while in your custody.
+&#9633; Reviewers are not asked to rewrite a poorly written manuscript but suggestions to improve clarity are extremely helpful and appreciated. Manuscripts can and should be released if the clarity or quality of the English grammar prevents a clear understanding of the work.
+&#9633; Reviewers will remain anonymous.
+&#9633; Prompt attention to manuscripts is appreciated both by the authors and by the Editors.
+Guidelines for Professional and Ethical Conduct of the Review Process of ASA, CSSA,
+and SSSA Journals
+Scientists agree that peer review is a cornerstone of scientific progress. As such, participating in the peer review process of ASA, CSSA, and SSSA journals is a privilege and a responsibility. A professional, objective, and thorough review process will benefit us as publishing researchers, improve the professionalism of our community, and enhance the quality of our published research. In agreeing to serve, one agrees to the following code of conduct, with the understanding that failure to serve in this capacity may lead to dismissal:
+&#9633; I will take responsibility for understanding the function of my office and executing to the best of my ability all tasks that are within my area of responsibility.
+&#9633; In my capacity I will work to maintain the integrity of the peer review process to ensure that the manuscript receives a thorough, quality review in accordance with the high scientific standards of the journal.
+&#9633; I will handle my share of manuscripts, understanding that this is an obligation of the peer review process.
+&#9633; I agree it is my responsibility to handle those manuscripts in the areas of my expertise and assist in finding persons qualified to handle papers in those areas outside my expertise.
+&#9633; I will execute my role within the specified schedule of the journal, understanding that failure to do so
+would detract from the quality of the journal and retard the professional development of the authors affected by a delay.
+&#9633; I will communicate with authors only in the capacity as defined by my role.
+&#9633; I will communicate with authors in a respectful and professional manner, including substantiating comments with published sources and understanding that I represent the journal and the Society(ies) through my tone and attitude. I understand that criticism of a manuscript should not extend to personal criticism of the author(s).
+&#9633; I will review each manuscript with impartiality, without regard to gender, race, ethnicity, religion, nationality, institutional affiliation, or other similar bias.
+&#9633; I will evaluate manuscripts on the basis of scientific merit, with the understanding that there may be many acceptable ways to prove a hypothesis. I will respect the independence of authors and their creativity and understand that differences of opinion can be addressed in published comments within the journal as a forum for scientific debate.
+&#9633; I will treat the manuscript in review as a confidential document, and neither disclose its contents outside the context of the review process, nor use its contents in my own work.
+&#9633; I will avoid conflicts of interest and the appearance of conflicts of interest stemming from my relationship with the author or professional and financial circumstances that may bias my approach to a manuscript.
+Thank you for your time and expertise!
+updated October 2014

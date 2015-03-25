@@ -1,0 +1,49 @@
+Instructions for Reviewers
+
+Following are the instructions for reviewing a manuscript for Cancer Biology & Medicine (www.cancerbiomed.org). Submission types for peer-review include Original Articles, Reviews, Minireviews, Editorials, Perspectives, and Case Reports.
+
+Submitted articles should meet the requirements in the Instructions for Authors: http://www.cancerbiomed.org/index.php/cocr/pages/view/instructions_authors
+
+A manuscript review should state the value of the findings in context of existing literature. Reviewers are required to provide detailed comments and suggestions on study design (including ethics), technique, statement of facts, interpretation, figure readability, reference citation and writing.
+
+CRITERIA
+
+Cancer Biology & Medicine is dedicated to presenting cutting-edge and high-quality information on cancer genomics, cancer stem cell, cancer biomarkers, radiation oncology, oncology clinical trials, mechanisms of drug sensitivity and resistance, targeted therapy and immunology, multidisciplinary treatment and personalized medicine. Publication will not be considered for articles published or submitted elsewhere. Manuscripts submitted to Cancer Biology & Medicine should abide by ethics involving humans and animals. Statements of conflict of interest, informed consent, and human and animal rights should be included in the manuscripts.   
+
+POINTS TO BE EVALUATED
+
+Reviewers are asked to evaluate the following aspects of an article.
+
+Scope  Does the manuscript further our understanding of cancer pathogenesis? Will the work presented advance the field or change clinical practice? Does the work indicate a new method for cancer diagnosis, treatment or prevention? Manuscripts reporting work conducted solely on purchased cell lines will not be accepted. Manuscripts falling outside the scope of the journal will not be considered for publication.
+
+Objectives Do the authors clearly state the research objectives or hypothesis? Have the objectives or hypothesis been met and sufficiently supported by the results? Is the work preliminary or incomplete?
+
+Study Design & Methodology Are the experiments appropriately designed? Are the methods correct and sufficiently described? Has an analysis been provided and correctly conducted? Are the statistical methods appropriate?  
+
+Reliability of Results Are the data complete and reliable? Have the authors provided information on the number of experiments, repetitions, and study and control groups?
+
+Interpretation Have the authors interpreted the results reasonably? Are the conclusions obtained through logical analysis?
+
+Originality and Significance Is the work repeating other research or is it original? Does the work represent a considerable advance or is it merely incremental?
+
+Policy Requirements Are there appropriate statements and approvals regarding human/animal experiments? If any figures are adapted or reproduced, are they properly cited?
+
+Reference Citation Have appropriate references been cited to place the study in the context of existing literature? Are there any important references not cited? Are there too many or too few citations?
+
+Manuscript Presentation Is the work presented in a logical path? Are the figures and tables clear? Is the manuscript easy to read? Will it need editing for grammar–if so how much?
+
+TIMING
+
+Reviewers are asked to respond to invitations of review within 7 days and to return reviews within 14 days after accepting an invitation. Late reviews are noted and taken into consideration for future invitations.
+
+CONFIDENTIALITY
+
+Cancer Biology & Medicine follows single-blind peer review. The identity of the reviewer remains anonymous to the author. Reviewers should keep confidentiality of the work in the paper reviewed. Any use or distribution of the manuscript is not allowed. Reviewers should not contact the authors of the paper on any questions about the manuscript
+
+CONFLICT OF INTEREST
+
+Reviewers are discouraged to review work in which they have a conflict of interest. The reviewers should report to the editor handling the manuscript for any suspected undisclosed conflicts of interest.
+
+SUBMISSION OF REVIEW
+
+Reviews should be submitted via the online manuscript processing system (https://mc03.manuscriptcentral.com/cbm). If you have any difficulty in using the online system, please contact the editorial office by editor@cancerbiomed.org.

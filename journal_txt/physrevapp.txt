@@ -1,0 +1,30 @@
+The role played by referees in maintaining the standing of the Physical Review journals is a crucial one. It is our intention to apply the acceptance criteria stringently and to act promptly and resolutely in making decisions to accept or reject manuscripts. The active and conscientious involvement of you as a referee is central to the success of the journals.
+
+When reviewing this paper we appeal to you to write an incisive, well-justified report that considers the following points:
+
+    Does the paper contain sufficient new physics that significantly advances the field to warrant publication in the Physical Review?
+    Is the paper scientifically sound and not misleading?
+    Are there appropriate and adequate references to related and previous work?
+    Is the paper well organized and clearly written in good scientific English?
+    Are the figures and tables (if any) clear and useful with suitable captions, or is there unnecessary duplication from previous publications?
+    Are the title and abstract informative, concise, and clear?
+    Does the content of the paper justify its length? Please be specific as to how and where the paper could be expanded or shortened.
+    Should all the material in the manuscript be included in the published article, or would some of the material (for example, long tables) be better suited as online Supplemental Material (SM)? Please see Supplemental Material Instructions.
+    Is the section for which this is being considered (Research Article, Letter, Review Article, or Comment) the right venue for this work? Be aware that some sections have length limits.
+    If submitted as a Letter, does the quality and importance of the content of the paper justify the special handling associated with the section?
+
+Letters
+
+The requirements for Letters are more stringent than those for Research Articles. The standards to be applied parallel those for Physical Review Letters. Material that meets these standards should be of sufficient importance to justify the priority handling given to a Letter in both the editorial and production processes.
+
+If a paper is not of sufficient interest or importance to be recommended for the Letters section, it may be suitable, perhaps after revision, as a short paper in the Research Articles section, or expanded to be a full-length Research Article. Please be specific about such recommendations. It is important, however, to avoid using this avenue as a means of softening a negative recommendation as a Letter. A paper must stand on its own right in the section in which it is published.
+
+It is the editors' intention to provide adequate time for thorough reviews while keeping the overall processing time to a minimum. Therefore a recommendation to publish in a section other than Letters will be given considerable weight and an editorial decision to do so will not be subject to further review solely on that issue.
+Review Articles
+
+We ask you to consider especially the following four areas of concern, on which we would welcome your comments.
+
+    Accessibility. The audience of PRApplied includes physicists from a broad range of fields and graduate students still considering possible areas of specialization. Many of these readers will not be familiar with the background of the topic under discussion or with the specialized jargon of the field. A clear introduction to the topic, both historical and analytical, is therefore an important part of every PRApplied review.
+    Organization and overview. For the practitioner, a review presents the current status of a given topic. It surveys the literature, of course, but an ideal review is more than a catalog of work done. It is a critical distillation of the progress on the topic, sorting out the main approaches and identifying the most successful. This requires making critical judgments and organizing the material accordingly. Sometimes a table or two can provide a useful summary. It is customary to end the review with a look at the open problems remaining and some likely future directions for research.
+    Balance. PRApplied strives to publish reviews of topics in which there is much research activity, and most of these reviews are written by authors who have made important contributions. We expect that their contributions will be treated in the review and we do not object if they openly admit to a bias for their own approaches. However, a reviewer has the obligation to deal with other points of view fairly and to be sure that all important work is represented.
+    Economy vs. completeness. PRApplied has a length limit of 30,000 words per article. We believe that this length is not only adequate to review most topics, it is also as much as most readers will have time for. Hence it is important that some choices be made in what to include and how much space to devote to each section.

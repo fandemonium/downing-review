@@ -1,0 +1,29 @@
+Scientific significance:
+Does the manuscript represent a substantial contribution to scientific progress within the scope of Biogeosciences (substantial new concepts, ideas, methods, or data)?	 	 	 	 
+Scientific quality:
+Are the scientific approach and applied methods valid? Are the results discussed in an appropriate and balanced way (consideration of related work, including appropriate references)?	 	 	 	 
+Presentation quality:
+Are the scientific results and conclusions presented in a clear, concise, and well-structured way (number and quality of figures/tables, appropriate use of English language)?	 	 	 	 
+Access review (quick report), peer review, and interactive public discussion (BGD)
+
+Manuscripts submitted to BG at first undergo a rapid access review (initial manuscript evaluation), which is not meant to be a full scientific review but to identify and sort out manuscripts with obvious major deficiencies in view of the above principal evaluation criteria.
+
+Manuscripts rated 4 (poor) in any of the principal criteria are normally rejected without further review and discussion. Manuscripts rated 1–3 (excellent–fair) in all criteria are normally published on the Biogeosciences Discussions (BGD) website, the discussion forum of BG, where they are subject to full peer review and interactive public discussion.
+
+In the full review and interactive discussion, the referees and other interested members of the scientific community are asked to take into account all of the following aspects:
+
+Does the paper address relevant scientific questions within the scope of BG?
+Does the paper present novel concepts, ideas, tools, or data?
+Are substantial conclusions reached?
+Are the scientific methods and assumptions valid and clearly outlined?
+Are the results sufficient to support the interpretations and conclusions?
+Is the description of experiments and calculations sufficiently complete and precise to allow their reproduction by fellow scientists (traceability of results)?
+Do the authors give proper credit to related work and clearly indicate their own new/original contribution?
+Does the title clearly reflect the contents of the paper?
+Does the abstract provide a concise and complete summary?
+Is the overall presentation well structured and clear?
+Is the language fluent and precise?
+Are mathematical formulae, symbols, abbreviations, and units correctly defined and used?
+Should any parts of the paper (text, formulae, figures, tables) be clarified, reduced, combined, or eliminated?
+Are the number and quality of references appropriate?
+Is the amount and quality of supplementary material appropriate?

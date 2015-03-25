@@ -1,0 +1,10 @@
+Referee instructions
+
+The review process begins with an invitation from the requesting Associate Editor who will provide referees on-line access to the manuscript after an agreement has been made to review. Referee names for each submission are kept confidential, as authors will have access to read only the reviews. Please note that reviews for all manuscripts are to be submitted electronically through http://mc.manuscriptcentral.com/jacm.
+
+Papers for the Journal of the ACM must be of high quality and fall within the scope of the journal. There are three main criteria for a paper to be accepted
+
+the paper must be among the best papers of the year in its area,
+the paper must be of interest to the broad community,
+the presentation must be effective.
+Few papers excel in all three, but a substandard level in any is sufficient grounds for rejection. This means that papers that may well be in first-rate journals may not be accepted to JACM. To ensure that authors feel comfortable submitting despite these high standards, we aim for a two-step review process. A referee may be asked to do a Quick Review, which is a quick scan of the paper to decide whether it meets these criteria, even assuming that all the results are correct as stated. If it seems that the paper might satisfy these criteria, either the same or different referees are asked to provide a more in-depth review. If a paper is rejected from JACM but still seems publishable and the referees are agreeable, we often offer authors the option of having the reviews forwarded to the editor-in-chief of a more appropriate journal.

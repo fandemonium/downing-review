@@ -1,0 +1,23 @@
+	
+Guidelines for Referees
+
+Thank you for agreeing to review this submission to The Annals of Applied Statistics. Here are the four main questions we are trying to answer:
+
+(1) Does the paper genuinely concern applied statistics?
+Articles should focus on specific applications or involve new methodology that speaks directly to one or more areas of current applied interest. Actual scientific/policy problems and relevant data to help answer unresolved issues provide the best evidence of serious applied interest. Papers focused primarily on extending existing methodology, or developing new methodology without a clear application, are not suitable for AOAS.
+
+(2) Is the paper clearly written?
+AOAS is intended for all professional statisticians, as well as for subject area experts with an interest in specific statistical topics. Papers should be written in an open style that emphasizes key ideas more than technical development. The Abstract and Introduction should be as nontechnical as possible, describing the important scientific/ policy problems to be addressed, explaining why the paper's subject is of interest, as well as what its results are. Highly technical material, both mathematical and computational, belongs in appendices or online supplements. Graphs and tables should be well thought out and uncluttered.
+
+(3) Is the paper correct?
+Mathematical and algorithmic validity are the authors’ professional responsibility. Referees can spot implausible claims and broad errors of statistical or mathematical reasoning, but are not expected to perform line-by-line checks of technical results.
+
+(4) Is the paper interesting?
+“Interesting” means interesting to you, of course, interesting because of the application, the methodology, or ideally both. Fresh or unusual points of view are particularly welcome at AOAS, even if they may be controversial.
+
+It is important that you communicate clearly to the Associate Editor your recommendation, but please do not place that recommendation in your report to the authors.
+
+Thank you again for your help, good refereeing is the key ingredient of a successful journal.
+
+Please submit your report within one month!
+Areas of application change rapidly, and authors need timely decisions. If you need more information from the authors, perhaps an algorithm or a data set, let us know right away. Suggestions for the authors should be returned on a separate page that does not compromise your anonymity. Please remember that it is your opinion about the paper's basic qualities rather than an extended technical review that is most important to us.

@@ -1,0 +1,102 @@
+Peer-review policy
+The policy outlined on this page applies to Nature journals (those with the word "Nature" in their title). NPG publishes many other journals, each of which has separate publication policies described on its website. A current list of these journals, with links to each journal's homepage is available.
+General information
+The following types of contribution to Nature journals are peer-reviewed: Articles, Letters, Brief Communications, Communications Arising, Technical Reports, Analysis, Reviews, Perspectives, Progress articles and Insight articles. All forms of published correction may also be peer-reviewed at the discretion of the editors.
+Other contributed articles are not usually peer-reviewed. Nevertheless, articles published in these sections, particularly if they present technical information, may be peer-reviewed at the discretion of the editors.
+For any general questions and comments about the peer-review process, the journal or its editorial policies that are not addressed here, we encourage reviewers to contact us using the feedback links in the box at the top right of each page in the authors & referees' website.
+Questions about a specific manuscript should be directed to the editor who is handling the manuscript.
+The peer-review policies of the Nature Reviews journals can be found on their websites.
+Online manuscript review
+We ask peer-reviewers to submit their reports via our secure online system by following the link provided in the editor's email. There is an online help guide to assist in using this system, and a helpdesk email account for any technical problems.
+Top of page
+Criteria for publication
+Nature journals receive many more submissions than they can publish. Therefore, we ask peer-reviewers to keep in mind that every paper that is accepted means that another good paper must be rejected. To be published in a Nature journal, a paper should meet four general criteria:
+Provides strong evidence for its conclusions.
+Novel (we do not consider meeting report abstracts and preprints on community servers to compromise novelty).
+Of extreme importance to scientists in the specific field.
+Ideally, interesting to researchers in other related disciplines.
+In general, to be acceptable, a paper should represent an advance in understanding likely to influence thinking in the field. There should be a discernible reason why the work deserves the visibility of publication in a Nature journal rather than the best of the specialist journals.
+Top of page
+The review process
+All submitted manuscripts are read by the editorial staff. To save time for authors and peer-reviewers, only those papers that seem most likely to meet our editorial criteria are sent for formal review. Those papers judged by the editors to be of insufficient general interest or otherwise inappropriate are rejected promptly without external review (although these decisions may be based on informal advice from specialists in the field).
+Manuscripts judged to be of potential interest to our readership are sent for formal review, typically to two or three reviewers, but sometimes more if special advice is needed (for example on statistics or a particular technique). The editors then make a decision based on the reviewers' advice, from among several possibilities:
+Accept, with or without editorial revisions
+Invite the authors to revise their manuscript to address specific concerns before a final decision is reached
+Reject, but indicate to the authors that further work might justify a resubmission
+Reject outright, typically on grounds of specialist interest, lack of novelty, insufficient conceptual advance or major technical and/or interpretational problems
+Reviewers are welcome to recommend a particular course of action, but they should bear in mind that the other reviewers of a particular paper may have different technical expertise and/or views, and the editors may have to make a decision based on conflicting advice. The most useful reports, therefore, provide the editors with the information on which a decision should be based. Setting out the arguments for and against publication is often more helpful to the editors than a direct recommendation one way or the other.
+Editorial decisions are not a matter of counting votes or numerical rank assessments, and we do not always follow the majority recommendation. We try to evaluate the strength of the arguments raised by each reviewer and by the authors, and we may also consider other information not available to either party. Our primary responsibilities are to our readers and to the scientific community at large, and in deciding how best to serve them, we must weigh the claims of each paper against the many others also under consideration.
+We may return to reviewers for further advice, particularly in cases where they disagree with each other, or where the authors believe they have been misunderstood on points of fact. We therefore ask that reviewers should be willing to provide follow-up advice as requested. We are very aware, however, that reviewers are usually reluctant to be drawn into prolonged disputes, so we try to keep consultation to the minimum we judge necessary to provide a fair hearing for the authors.
+When reviewers agree to assess a paper, we consider this a commitment to review subsequent revisions. However, editors will not send a resubmitted paper back to the reviewers if it seems that the authors have not made a serious attempt to address the criticisms.
+We take reviewers' criticisms seriously; in particular, we are very reluctant to disregard technical criticisms. In cases where one reviewer alone opposes publication, we may consult the other reviewers as to whether s/he is applying an unduly critical standard. We occasionally bring in additional reviewers to resolve disputes, but we prefer to avoid doing so unless there is a specific issue, for example a specialist technical point, on which we feel a need for further advice.
+Top of page
+Selecting peer-reviewers
+Reviewer selection is critical to the publication process, and we base our choice on many factors, including expertise, reputation, specific recommendations and our own previous experience of a reviewer's characteristics. For instance, we avoid using people who are slow, careless, or do not provide reasoning for their views, whether harsh or lenient.
+We check with potential reviewers before sending them manuscripts to review. Reviewers should bear in mind that these messages contain confidential information, which should be treated as such.
+Top of page
+Access to the literature
+If a reviewer does not have access to any published paper that is necessary for evaluation of a submitted manuscript, the journal will supply the reviewer with a copy. Under these circumstances, the reviewer should send the publication reference of the paper required to the editor who sent them the paper to review. The editor will obtain the paper, paying any necessary fees, and send it to the reviewer.
+Top of page
+Writing the review
+The primary purpose of the review is to provide the editors with the information needed to reach a decision but the review should also instruct the authors on how they can strengthen their paper to the point where it may be acceptable. As far as possible, a negative review should explain to the authors the major weaknesses of their manuscript, so that rejected authors can understand the basis for the decision and see in broad terms what needs to be done to improve the manuscript for publication elsewhere. Referees should not feel obliged to provide detailed, constructive advice regarding minor criticisms of the manuscript if it does not meet the criteria for the journal (as outlined in the letter from the editor when asking for the review). Referees should be aware that authors of declined manuscripts may request that referee comments be transferred to another Nature journal where they can be used to determine suitability of publication at the receiving journal.
+Confidential comments to the editor are welcome, but it is helpful if the main points are stated in the comments for transmission to the authors. The ideal review should answer the following questions:
+Who will be interested in reading the paper, and why?
+What are the main claims of the paper and how significant are they?
+Is the paper likely to be one of the five most significant papers published in the discipline this year?
+How does the paper stand out from others in its field?
+Are the claims novel? If not, which published papers compromise novelty?
+Are the claims convincing? If not, what further evidence is needed?
+Are there other experiments or work that would strengthen the paper further?
+How much would further work improve it, and how difficult would this be? Would it take a long time?
+Are the claims appropriately discussed in the context of previous literature?
+If the manuscript is unacceptable, is the study sufficiently promising to encourage the authors to resubmit?
+If the manuscript is unacceptable but promising, what specific work is needed to make it acceptable?
+Top of page
+Other questions to consider
+We appreciate that reviewers are busy, and we are very grateful if they can answer the questions in the section above. However, if time is available, it is extremely helpful to the editors if reviewers can advise on some of the following points:
+Is the manuscript clearly written?
+If not, how could it be made more clear or accessible to nonspecialists?
+Would readers outside the discipline benefit from a schematic of the main result to accompany publication?
+Could the manuscript be shortened? (Because of pressure on space in our printed pages we aim to publish manuscripts as short as is consistent with a persuasive message.)
+Should the authors be asked to provide supplementary methods or data to accompany the paper online? (Such data might include source code for modelling studies, detailed experimental protocols or mathematical derivations.)
+Have the authors done themselves justice without overselling their claims?
+Have they been fair in their treatment of previous literature?
+Have they provided sufficient methodological detail that the experiments could be reproduced?
+Is the statistical analysis of the data sound, and does it conform to the journal's guidelines?
+Are the reagents generally available?
+Are there any special ethical concerns arising from the use of human or other animal subjects?
+Top of page
+Timing
+Nature journals are committed to rapid editorial decisions and publication, and we believe that an efficient editorial process is a valuable service both to our authors and to the scientific community as a whole. We therefore ask reviewers to respond promptly within the number of days agreed. If reviewers anticipate a longer delay than previously expected, we ask them to let us know so that we can keep the authors informed and, where necessary, find alternatives.
+Top of page
+Anonymity
+We do not release reviewers' identities to authors or to other reviewers, except when reviewers specifically ask to be identified. Unless they feel strongly, however, we prefer that reviewers should remain anonymous throughout the review process and beyond. Before revealing their identities, reviewers should consider the possibility that they may be asked to comment on the criticisms of other reviewers and on further revisions of the manuscript; identified reviewers may find it more difficult to be objective in such circumstances.
+We ask reviewers not to identify themselves to authors without the editor's knowledge. If they wish to reveal their identities while the manuscript is under consideration, this should be done via the editor, or if this is not practicable, we ask authors to inform the editor as soon as possible after the reviewer has revealed his or her identity to the author.
+We deplore any attempt by authors to confront reviewers or determine their identities. Our own policy is to neither confirm nor deny any speculation about reviewers' identities, and we encourage reviewers to adopt a similar policy.
+Double blind peer review: 
+As of March 2015, Nature and the monthly Nature research journals offer a double-blind peer review option.  Authors who choose this option at submission remain anonymous to the referees throughout the consideration process.  The authors are responsible for anonymizing their manuscript accordingly; a checklist is provided to help with this process. More information is available in Editorials, including this Nature announcement and earlier publications related to trials that started in 2013 in Nature Geoscience and Nature Climate Change. 
+Top of page
+Editing referees' reports
+As a matter of policy, we do not suppress reviewers' reports; any comments that were intended for the authors are transmitted, regardless of what we may think of the content. On rare occasions, we may edit a report to remove offensive language or comments that reveal confidential information about other matters. We ask reviewers to avoid statements that may cause needless offence; conversely, we strongly encourage reviewers to state plainly their opinion of a paper. Authors should recognize that criticisms are not necessarily unfair simply because they are expressed in robust language.
+Top of page
+The peer-review system
+It is editors' experience that the peer-review process is an essential part of the publication process, which improves the manuscripts our journals publish. Not only does peer review provide an independent assessment of the importance and technical accuracy of the results described, but the feedback from referees conveyed to authors with the editors' advice frequently results in manuscripts being refined so that their structure and logic is more readily apparent to readers.
+Nature journals are appreciative of its peer-reviewers, of whom there are many tens of thousands. It is only by collaboration with our reviewers that editors can ensure that the manuscripts we publish are among the most important in their disciplines of scientific research. We appreciate the time that reviewers devote to assessing the manuscripts we send them, which helps ensure that Nature journals publish only material of the very highest quality. In particular, many submitted manuscripts contain large volumes of additional (supplementary) data and other material, which take time to evaluate. We thank our reviewers for their continued commitment to our publication process.
+Much has been written, in Nature journals and elsewhere, on the peer-review system as a whole. Alternative systems have been proposed in outline: for example, signed peer-review, blind peer-review and open peer review. The system has been exhaustively studied, reported on, and assessed -- both positively and negatively.
+Nature journals' position on the value of the peer-review system is represented in the following extract from an editorial in Nature Immunology.
+Reviewing peer review
+The goals of peer review are both lofty and mundane. It is the responsibility of journals to administer an effective review system. Peer review is designed to select technically valid research of significant interest. Referees are expected to identify flaws, suggest improvements and assess novelty. If the manuscript is deemed important enough to be published in a high visibility journal, referees ensure that it is internally consistent, thereby ferreting out spurious conclusions or clumsy frauds.
+One problem with manuscript selection is the inherent tension between referees and authors. Referees wish for only the most solid science to be published, yet when they 'switch hats' to that of author, they desire quick publication of their novel ideas and approaches. Authors of papers that blow against the prevailing winds bear a far greater burden of proof than normally expected in publishing their challenge to the current paradigm. Veering too far in one direction or the other leads to complaints either that peer review isn't stringent enough, or that it is stifling the freshest research. It is the job of the editors to try to avoid both extremes.
+Journal editors do not expect peer review to ferret out cleverly concealed, deliberate deceptions. A peer reviewer can only evaluate what the authors chose to include in the manuscript. This contrasts with the expectation in the popular press that peer review is a process by which fraudulent data is detected before publication (although that sometimes happens).
+We are continually impressed with peer review's positive impact on almost every paper we publish. Even papers that are misunderstood by reviewers are usually rewritten and improved before resubmission. Mistakes are made, but peer review, through conscientious effort on the part of referees, helps to protect the literature, promote good science and select the best. Until a truly viable alternative is provided, we wouldn't have it any other way.
+The full text of this editorial is available through Nature Immunology.
+In 2006, Nature published a comprehensive web focus on the peer review system. All articles in this focus are open for readers' comments via a link at the end of each article and at Peer to Peer, the blog for peer-reviewers and about peer review.
+Nature Network runs an "ask the editor" group, free to join, in which scientists can ask the editors questions about peer review.
+Top of page
+Peer-review publication policies
+All contributions submitted to Nature journals that are selected for peer-review are sent to at least one, but usually two or more, independent reviewers, selected by the editors. Authors are welcome to suggest suitable independent reviewers and may also request that the journal excludes one or two individuals or laboratories. The journal sympathetically considers such requests and usually honours them, but the editor's decision on the choice of referees is final.
+As a condition of agreeing to assess the manuscript, all reviewers undertake to keep submitted manuscripts and associated data confidential, and not to redistribute them without permission from the journal. If a reviewer seeks advice from colleagues while assessing a manuscript, he or she ensures that confidentiality is maintained and that the names of any such colleagues are provided to the journal with the final report. By this and by other means, Nature journals endeavour to keep the content of all submissions confidential until the publication date other than in the specific case of its embargoed press release available to registered journalists. Although we go to every effort to ensure reviewers honour their promise to ensure confidentiality, we are not responsible for the conduct of reviewers.
+Reviewers should be aware that it is our policy to keep their names confidential, and that we do our utmost to ensure this confidentiality. Under normal circumstances, blind peer-review is protected from legislation. We cannot, however, guarantee to maintain this confidentiality in the face of a successful legal action to disclose identity in the event of a reviewer having written personally derogatory comments about the authors in his or her reports. For this reason as well as for reasons of standard professional courtesy, we request reviewers to refrain from personally negative comments about the authors of submitted manuscripts. Frank comments about the scientific content of the manuscripts, however, are strongly encouraged by the editors.
+Top of page
+Ethics and security
+Nature journal editors may seek advice about submitted papers not only from technical reviewers but also on any aspect of a paper that raises concerns. These may include, for example, ethical issues or issues of data or materials access. Very occasionally, concerns may also relate to the implications to society of publishing a paper, including threats to security. In such circumstances, advice will usually be sought simultaneously with the technical peer-review process. As in all publishing decisions, the ultimate decision whether to publish is the responsibility of the editor of the journal concerned.

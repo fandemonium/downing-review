@@ -1,0 +1,79 @@
+Guidelines for Reviewers of ASM Journals
+
+Reviewing a manuscript written by a fellow scientist is a privilege. It is also an exciting and enjoyable educational experience. However, it is also a time-consuming responsibility. ASM and its editors, authors, and readers therefore appreciate your willingness to accept this responsibility and your dedication. We hope that these Guidelines will help make your job easier.
+
+General Policies and Procedures
+Authors submit their manuscripts electronically via eJP to ASM. Each manuscript is reviewed by ASM staff for relevancy to the individual journal. Should a question arise, the editorial coordinator or the production editor will contact the editor in chief (or an appropriate editor), who then decides whether the manuscript should be transferred to another ASM journal, editorially rejected owing to scope, or retained for review by the journal to which it was submitted. If retained, the manuscript is assigned to an editor, who in turn chooses one or more editorial board members or ad hoc reviewers to review it.
+
+On receipt of the invitation to review, you should immediately:
+
+Read the editor's transmittal e-mail, which includes the article abstract, to determine whether the subject is within your area of expertise and whether you can complete the review in the stated time period.
+Click the link in the e-mail or directly log on to eJP and either accept or decline the invitation to review.
+If you decline the invitation to review:
+
+Indicate why you are declining.
+If possible, please suggest a colleague who may be able to review the manuscript. If appropriate, the editor will send an invitation to review to that individual. You may not “transfer” your invitation to review the manuscript to a colleague.
+If you accept the invitation to review, you will have access to the complete PDF of the manuscript and should immediately:
+
+Double-check the manuscript title page and the Acknowledgments section to determine whether there is any conflict of interest for you (with the authors, their institution, or their funding sources) and whether you can judge the article impartially.
+Quickly skim the relevant portions of the manuscript and verify that it fits within the scope of the journal.
+If you have either a time problem or a conflict of interest, contact the editor for instructions. He/she may extend your deadline or cancel the review assignment as appropriate. If your cursory examination reveals that the manuscript does not fit within the scope of the journal, indicate that in the Confidential Comments to the Editor section of the review form. You will also need to click the appropriate button in each category in the Confidential Assessment for the Editor section (these are required fields; if none of the selections is appropriate, indicate in the Confidential Comments to the Editor section that the editor should ignore them).
+
+Do not discuss the paper with its authors either during or after the review process. Although it may seem natural and reasonable to discuss points of difficulty or disagreement directly with an author, especially if you are generally in favor of publication and do not mind revealing your identity, this practice is prohibited because the other reviewers and the editor may have different opinions, and the author may be misled by having "cleared things up" with the reviewer who contacted him/her directly.
+
+The manuscript provided to you for review is a privileged document. Please protect it from any form of exploitation. Do not cite a manuscript or refer to the work it describes before it has been published and do not use the information that it contains for the advancement of your own research or in discussions with colleagues.
+
+In your comments intended for the author, do not make statements about the acceptability of a paper (see the next paragraph); suggested revisions should be stated as such and not expressed as conditions of acceptance. Organize your review so that an introductory paragraph summarizes the major findings of the article, gives your overall impression of the paper, and highlights the major shortcomings. This paragraph should be followed by specific, numbered comments, which, if appropriate, may be subdivided into major and minor points. (The numbering facilitates both the editor's letter to the author and evaluation of the author's rebuttal.) Criticism should be presented dispassionately; offensive remarks are not acceptable.
+
+Confidential remarks directed to the editor should be entered in the box so labeled. Advise the editor of your recommendation for acceptance, modification, or rejection by making the appropriate selection in the dropdown menu. The final decision regarding modification, acceptance, or rejection of a manuscript rests solely with the editor, so do not state your recommendation in the portion of the review that will be sent to the author.
+
+After completing your review, click the “Submit Review” button. You may want to save a copy of your review offline for your records. After successful completion of your review, it will be saved in your Past Reviews folder in eJP.
+
+Back to Top^
+
+The Review
+ 
+
+Adopt a positive, impartial, but critical attitude toward the manuscript under review, with the aim of promoting effective, accurate, and relevant scientific communication.
+
+Please consider the following aspects when reviewing a manuscript:
+
+Significance to the target scientific community
+Originality
+Appropriateness of the approach or experimental design
+Appropriateness of the statistical analyses
+Adherence to correct scientific nomenclature
+Appropriate literature citations
+Adequacy of experimental techniques
+Soundness of conclusions and interpretation
+Relevance of discussion
+Organization
+Adherence to the Instructions to Authors
+Adequacy of title and abstract
+Appropriateness of figures and tables
+Appropriateness of supplemental material intended for posting (if applicable)
+Length
+Whether it describes misuse of microbial systems or the information derived therefrom
+You are not required to correct deficiencies of style, syntax, or grammar, but any help you can give in clarifying meaning will be appreciated. In particular, point out the use of scientific jargon, misspellings of chemical names, use of outmoded terminology or incorrect genetic nomenclature, and use of misspelled, incorrect, or outdated scientific names of organisms.
+
+Your criticisms, arguments, and suggestions concerning the paper will be most useful to the editor and to the author if they are carefully documented. Do not make dogmatic, dismissive statements, particularly about the novelty of the work. Substantiate your statements. Reviewer's recommendations are gratefully received by the editor; however, since editorial decisions are usually based on evaluations derived from several sources, reviewers should not expect the editor to honor every recommendation. You will be asked to suggest acceptability as noted on the specific review form (e.g., accept; accept with revision; reject; modify, re-review required; convert to Short-Form). Should you review manuscripts for more than one ASM journal, note that their review forms and categories may vary slightly.
+
+Very few papers qualify for an immediate, unconditional acceptance.
+There are many reasons to reject a paper. In general, if there are serious flaws in experimental design, incorrect interpretation of data, extensive additional experiments required, or any organizational or English usage flaws that prevent critical review of the manuscript, then recommend that the manuscript be rejected.
+If you feel that the deficiencies can be corrected within a reasonable period of time, then recommend modification (e.g., modification; convert to Short-Form; accept with revision; or modify - re-review required, if the revisions are extensive enough to warrant a second review). For some of the ASM journals, you may recommend "convert to Short-Form" if you feel that the presentation can fit into the Short-Form format, which usually should not exceed 1,000 words plus an illustration or a table or two; this format should not be used as an excuse to publish work of questionable quality. (Note: Some ASM journals do not publish Short Forms; some have different word count requirements.)
+ 
+Some ASM journals publish very short communications in a "letter" format. These are usually concise (750 words maximum) communications of important new data; they do not meet the criteria for full-length articles or Short-Forms. In some instances, you may want to recommend that Short-Forms be converted to letters.
+
+Back to Top^
+
+ASM Publication Policies; Ethics
+
+Although the staff at the ASM Journals Department and the journal editors may be able to note a breach of publication policy or ethical conduct after publication, we rely heavily on the reviewers to detect such problems before publication. ASM publication policies are described in the Instructions to Authors, which are available online. Some of the items for which you should be alert include:
+
+Plagiarism – Plagiarism is not limited to the Results and Discussion sections; it can involve any part of the manuscript, including figures and tables, in which material is copied from another publication without attestation, reference, or permission. Note that wording does not have to be exact to be copyright infringement; use of very similar words in almost the same sequence can also be infringement. Data themselves are not copyrightable, but their presentation is.
+Missing or incomplete attestation – Authors must give appropriate credit to ideas, concepts, and data that have been published previously. This is accomplished by the inclusion of references. Missing, incomplete, or incorrect references must be brought to the editor's attention.
+Dual submission and/or publication – Be wary of attempts to submit/publish similar material more than once. This is often difficult to detect "before the fact," but checking literature citations, as well as having a critical eye, is helpful.
+Conflicts of interest – If you are aware of any commercial affiliations, consultancies, stock or equity interests, or patent-licensing arrangements on the part of the authors, bring them to the attention of the editor.
+Note that similar conflicts of interest on your part must also be brought to the attention of the editor, who may, at his discretion, subsequently cancel your invitation to review the manuscript. If one of the manuscript authors is at your institution, there could be a perceived conflict of interest, and you should immediately contact the editor so that another individual can be invited to review the manuscript in your place.
+
+In summary, you must communicate suspicions of policy or ethics problems directly to the editor, who in turn will contact the editor in chief. Under no circumstance should you contact the author directly. ASM has policies for investigation and resolution of such problems and these must be followed.

@@ -1,0 +1,155 @@
+Make sure the article you have been asked to review truly matches your expertise
+The Editor who has approached you may not know your work intimately, and may only be aware of your work in a broader context. Only accept an invitation if you are competent to review the article.
+
+Avoid a potential conflict of interest
+A conflict of interest will not necessarily eliminate you from reviewing an article, but full disclosure to the editor will allow them to make an informed decision. For example; if you work in the same department or institute as one of the authors; if you have worked on a paper previously with an author; or you have a professional or financial connection to the article. These should all be listed when responding to the editor's invitation for review.
+
+Check that you have enough time
+Reviewing an article can be quite time consuming. The time taken to review can vary greatly between disciplines and of course on article type, but on average, an article will take about 5 hours to review properly. Will you have sufficient time before the deadline stipulated in the invitation to conduct a thorough review?
+
+Understand what it means to accept to review and manage deadlines
+Deadlines for reviews vary per journal. The editors will provide information on deadline expectations with the review request. Let them know within a day or two that you got the request. They will appreciate being informed in a timely manner if you are able to complete the review or not. There are no consequences for refusing to review a paper.
+
+If you feel the review will take you longer to complete than normal, please contact the editor to discuss the matter. The editor may ask you to recommend an alternate reviewer, or may be willing to wait a little longer (e.g., if the paper is highly specialized and reviewers are difficult to find). As a general guideline, if you know you will not be able to complete a review within the time frame requested, you should decline to review the paper.
+
+Ethics
+
+Plagiarism
+If you suspect that an article is a substantial copy of another work, please let the editor know, citing the previous work in as much detail as possible.
+
+Fraud
+It is very difficult to detect the determined fraudster, but if you suspect the results in an article to be untrue, discuss it with the editor.
+
+Other ethical concerns
+For medical research, has confidentiality been maintained? Has there been a violation of the accepted norms in the ethical treatment of animal or human subjects? If so, then these should also be identified to the editor.
+
+Visit our website on Ethics for more information
+
+
+Confidentiality
+
+Do not disclose to others
+Any manuscripts received for review must be treated as confidential documents. They must not be shown to, or discussed with, others except as authorized by the editor. Unpublished materials disclosed in a submitted manuscript must not be used in a reviewer's own research without the express written consent of the author. Privileged information or ideas obtained through peer review must be kept confidential and not used for personal advantage.
+
+Requesting the opinion of a single colleague may be appropriate in some circumstances but you should always let the editor know beforehand. Most editors welcome additional comments, but whoever else is involved will also need to keep the review process confidential. If the review is referred to a student, he or she should communicate directly with the editor.
+
+Peer review is confidential, and therefore information about the review (e.g. review reports, correspondence with the editor) cannot be shared with 3rd parties, unless the editorial policy of the journals explicitly allows for this, or permission is granted by the editors and authors of the article.
+
+Reviewer identity is generally not shared with the author
+Although journal practices vary, most journals do not share the identity of the reviewer with the author. To help us protect your identity, please do not reveal your name within the text of your review. It also implies you should not attempt to contact the author. 
+
+
+Originality
+
+Is the article sufficiently novel and interesting to warrant publication? Does it add to the canon of knowledge? Does the article adhere to the journal's standards? Is the research question an important one? In order to determine its originality and appropriateness for the journal, it might be helpful to think of the research in terms of what percentile it is in? Is it in the top 25% of papers in this field? You might wish to do a quick literature search using tools such as Scopus to see if there are any reviews of the area. If the research has been covered previously, pass on references of those works to the editor.
+
+
+Structure
+
+Layout and format
+Authors are required to adhere to the journal's Guide for Authors, which includes manuscript presentation. If the difference is extreme and the editor has not mentioned this issue in the request to review, you may wish to contact your editor to discuss it. Otherwise, you should note this in your review. If the paper is otherwise good, the editor may choose to overlook the formatting issues (for example, if the author comes from outside the discipline but has something valuable to convey to the readers of this journal). Other times, editors may ask the author to restructure the paper before publication. Title
+Does it clearly describe the article? 
+Abstract
+Does it reflect the content of the article?
+
+Introduction
+Does it describe what the author hoped to achieve accurately, and clearly state the problem being investigated? Normally, the introduction should summarize relevant research to provide context, and explain what other authors' findings, if any, are being challenged or extended. It should describe the experiment, the hypothesis(es) and the general experimental design or method. Graphical abstracts and/or highlights
+Where these are included, please check the content and if possible make suggestions for improvements. Do the figures and tables inform the reader, are they an important part of the story? Do the figures describe the data accurately? Are they consistent, e.g. bars in charts are the same width, the scales on the axis are logical. Follow these links for more information on graphical abstracts and highlights.
+
+Method
+Does the author accurately explain how the data was collected? Is the design suitable for answering the question posed? Is there sufficient information present for you to replicate the research? Does the article identify the procedures followed? Are these ordered in a meaningful way? If the methods are new, are they explained in detail? Was the sampling appropriate? Have the equipment and materials been adequately described? Does the article make it clear what type of data was recorded; has the author been precise in describing measurements?
+
+Statistical errorsThe most common errors are described here.
+
+ResultsThis is where the author(s) should explain in words what he/she/they discovered in the research. It should be clearly laid out and in a logical sequence. You will need to consider if the appropriate analysis has been conducted. Are the statistics correct? If you are not comfortable with statistics, please advise the editor when you submit your report. Interpretation of results should not be included in this section.
+
+Conclusion/Discussion
+Are the claims in this section supported by the results, do they seem reasonable? Have the authors indicated how the results relate to expectations and to earlier research? Does the article support or contradict previous theories? Does the conclusion explain how the research has moved the body of scientific knowledge forward?
+
+Language
+If an article is poorly written due to grammatical errors, while it may make it more difficult to understand the science, you do not need to correct the English. You should bring this to the attention of the editor.
+
+
+Previous Research
+
+If the article builds upon previous research does it reference that work appropriately? Are there any important works that have been omitted? Are the references accurate?
+
+Once you have completed your evaluation of the article the next step is to write up your report. Below are some key points to consider during this task.
+
+Process
+Precise instructions on how to format your review will be provided to you by your editor via Elsevier's online submission system (EES).
+
+Accessibility of reviewers comments
+An author will only see the comments you have made that are specific to the author; sometimes the editor will edit them.
+
+Other reviewers' comments can been seen via EES, although not all editors have opted to have this feature activated for their journal. If your journal has not activated this feature, you may contact the editor if you wish to have feedback on your review or on whether the paper was accepted or rejected.
+
+Provide a quick summary
+Some journals may request that you complete a form, checking various aspects of the paper, others will request an overview of your remarks. Either way, it is helpful to provide a quick summary of the article at the beginning of your report. This serves the dual purpose of reminding the editor of the details of the report and also reassuring the author and editor that you have understood the article.
+
+Highlight key elements
+The report should contain the key elements of your review, addressing the points outlined in the preceding section. Commentary should be courteous and constructive, and should not include any personal remarks or personal details including your name.
+
+Explain your judgement
+Providing insight into any deficiencies is important. You should explain and support your judgment so that both editors and authors are able to fully understand the reasoning behind your comments. You should indicate whether your comments are your own opinion or are reflected by the data.
+
+Classify your recommendation
+When you make a recommendation regarding an article, it is worth considering the categories the editor most likely uses for classifying the article:
+
+-Reject (explain reason in report)
+-Accept without revision
+-Revise (either major or minor)
+
+Identify the required revision
+Clearly explain the kind of revision that is required, and indicate to the editor whether or not you would be happy to review the revised article.
+
+Acceptance/Rejection
+The final decision of whether to accept or reject a particular manuscript lies with the editor. Elsevier plays no part in this decision. The editor will weigh all views and may call for a third opinion or ask the author for a revised paper before making a decision.
+
+Elsevier's submission system, EES, allows reviewers to be notified of the outcome of papers they have reviewed. It is left to the editor's discretion of whether this function is activated for any given journal. If this functionality is not activated for your journal, you may contact the editor if you wish to know whether the paper was accepted or rejected.
+
+From Paul Haddad, Editor in Chief of the Journal of Chromatography A
+
+1. Be critical. It is easier for an editor to overturn very critical comments than to overturn favorable comments.
+2. Justify all criticisms by specific references to the text of the paper or to published literature. Vague criticisms are unhelpful.
+3. Don't repeat information from the paper, such as the title and authors names, since this already appears elsewhere in the review form.
+4. Check the Aims and Scope of the journal to ensure that your comments are in accordance with journal policy.
+5. Give a clear recommendation. Don't put "I will leave the decision to the editor" unless you are genuinely unsure of your recommendation.
+6. Number your comments so that the authors can easily refer to them.
+7. Be specific - refer to line numbers in the paper or to exact regions where you wish changes to occur.
+8. Be careful not to identify yourself by your comments or by the file name of your report if you submit it as a Word file.
+
+  
+
+
+From Joseph Alpert, Editor in Chief of The American Journal of Medicine
+
+ 1. It is a professional honor to be invited to review a scientific manuscript as part of the peer review process. Please take this job seriously. The journal's reputation depends in part on this peer review process.
+
+ 2. It is important to ensure that the subject of the manuscript is within your purview of expertise. Thus, if you are an interventional cardiologist, it would probably be best if you declined an opportunity to review a manuscript involving the pathogenesis of an arrhythmia.
+
+ 3. Read the abstract first to see if what the authors are stating makes logical sense, and if it is written in a way that is comprehensible. Some manuscripts involve excellent work and interesting observations, but they are so poorly written that it is difficult to understand what the author is saying. This is a relatively common problem with authors whose native language is not English. If the work reported in the manuscript looks interesting and/or valuable, the manuscript should be sent back for editing by a native English speaker or professional translator.
+
+ 4. Is the observation made and reported in the manuscript something new or is it work that reproduces previously made observations? Clearly, the more original the observation, the more likely that the manuscript should be accepted for publication.
+
+ 5. Examine tables and figures to see if the legends are clear and if the tables and figures demonstrate the same thing that is stated in the text. Frequently, material placed in a table does not have to be reported in detail in the Results section of the manuscript.
+
+ 6. Look to see if the statistical analysis seems to make sense. Are the differences reported in the statistical analysis of sufficient magnitude to be of biological/clinical significance. Sometimes, a small statistically significant difference between two or more groups of patients is so small as to be (as my mentor Lewis Dexter used to say) "biologically insignificant."
+
+ 7. Examine the methods to make sure that the authors knew what they were doing. If their laboratory analyses were just run on a commercial kit without input from someone in the hospital or medical school laboratory, these results may be of lower quality and higher variability. Make sure that the study is based on a sufficient number of patients or measurements. Ask a biostatistician to review the manuscript if there is any question of the reliability of the analyses performed.
+
+ 8. Read the discussion and see if it makes sense and if it reflects what the data in the article report. Look for unnecessary conjecture or unfounded conclusions that are not based on the evidence presented.
+
+ 9. Is the manuscript concise and well organized? Most of the manuscripts that I receive could be shortened with improvement.
+
+ 10. Is the quality of the figures or photos adequate for accurate reproduction?
+
+ 11. Has the author followed the instructions to authors that are part and parcel of your journal's submission criteria?
+
+ 12. If the review is not blinded, i.e., you know what institution the authors did the work, do the authors have a "track record" of working in this area, and are they from a reputable institution? Are there potential conflicts of interest either declared or not declared but known by the reviewer?
+
+ 13. Was there appropriate informed consent (human experiments) with documentation that a human or animal protection committee reviewed the protocol prior to the initiation of the study?
+
+ 14. Is the manuscript full of typographical errors and/or mistakes in references that imply a sloppy job of putting the manuscript together?
+
+ 15. Subjectively, do you believe what the authors are telling you or do you suspect some consistent error in the hypothesis, methods, analysis of data, etc.? Is there some chance that there is scientific fraud or plagiarism involved in this manuscript?

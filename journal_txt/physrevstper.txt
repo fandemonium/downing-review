@@ -1,0 +1,125 @@
+ The role played by the referee in maintaining the standing of Physical Review Special Topics - Physics Education Research is a crucial one. The high standards associated with this journal can only be achieved with the active and conscientious involvement of you as referee. To be of value, your recommendations must be accompanied by a detailed and reasoned evaluation. To be publishable, papers must contain significant new physics or understanding, must be of high quality and scientific interest, and must be written in good, scientific English. Mere correctness is not sufficient justification for publication in this journal.
+
+Do not otherwise distribute copies of the manuscript or use results contained in it without permission from the authors. Feel free to show it to knowledgeable colleagues and to consult them about your review. Suggestions for alternative referees are helpful to the editors and would be appreciated.
+
+It is the job of the referee to judge clarity and content of the manuscript, not issues of style. Comments dealing with issues of personal preference, such as how data is presented or writing styles or format, should be kept to a minimum. Aside from whether these sorts of comments are appropriate, having many comments of this type slows down the reviewing process considerably and should be avoided.
+
+The reviews are expected to be completed and returned in a timely manner. An automated email reminder will be sent by APS two weeks after you receive the manuscript.
+
+Please consider the points below when reviewing a manuscript:
+General
+
+    What is the purpose of the paper? Does the paper meet its goals?
+    Do you recommend that the paper be accepted for publication? Accept after revision? Does the revised paper need to be re-reviewed?
+
+The research problem
+
+    What specific question or questions does this paper address?
+    Does the paper make a strong argument for its place in the body of existing knowledge?
+    Does the paper present the necessary theoretical and experimental background, including citations of current literature? Do you have suggestions for additional references?
+
+Methodology
+
+    What type of study is it (qualitative/quantitative, experimental/quasi-experimental, ethnographic, case study, theoretical, etc.)? Is the research design appropriate for the questions being addressed? Was the methodology effectively implemented?
+    Are data, statistical results, populations, instrumentation, interview/observation protocols, and other proce- dures adequately reported? Are validity and reliability issues addressed? Is there sufficient detail to facilitate replication of the study?
+
+Results and conclusions
+
+    Are data tables and figures complete?
+    Do the data support the paper’s assertions? Are the questions answered? Are there implications for instruction?
+    Are the limitations of the findings described?
+
+The following should also be considered, but not used as grounds for rejection
+General
+
+    Do the title and abstract summarize the paper in a useful way?
+    Is the writing clear and concise? Is the quality of writing (vocabulary, grammar, and style) satisfactory? Could the paper be shorter?
+    Is the paper in an APS-approved format?
+
+Results and conclusions
+
+    Are data tables and figures appropriate or excessive?
+
+More detailed guidelines are available by clicking here.
+
+ The peer review process is at the very core of science. It provides a mechanism whereby experts in the field evaluate the appropriateness of a particular piece of work and decide whether it should be added to the literature of the field. The gateway role of reviewing should not be taken lightly. Review the paper as seriously and carefully as you would want someone else to read your articles. Merely pointing out shortcomings is not nearly as helpful as making suggestions for improvement. If you cannot give your full attention to the review, it is much better to immediately inform the editor so it can be reassigned. The only thing worse than a sloppily done review is one that is held until after the deadline and then is still not done.
+
+General
+
+    What is the purpose of the paper? Who is the audience? Does the paper meet its goals?
+    Should specific sections be changed or added/dropped? Should specific sections be reorganized?
+    Do you recommend that the paper be accepted for publication in its current form?
+    If you suggest revisions, do you need to see the paper again before publication?
+    If you recommend rejecting or revision of the paper, please prepare a detailed, CONSTRUCTIVE analysis for the author.
+
+Introduction/Background
+
+    Is sufficient detail presented to provide a rationale for the study? The literature review should lead the reader directly to the questions addressed by the research.
+    Is too much well known material included? Is information presented that is already available to researchers in earlier papers?
+    Is the justification for the study based on vague generalizations or specific references to previous findings?
+    Is the underlying theoretical framework explained?
+    Are the researcher's background and possible biases fully described?
+    Are the questions addressed by the study clearly presented?
+
+Methodology
+
+    Is there a justification for the research design (qualitative/quantitative, experimental/quasi-experimental, ethnographic, case study, theoretical, etc.)? Are alternative approaches mentioned, along with reasons they do not apply?
+    Is the context, population, etc. adequately described? How were subjects selected? How might this have impacted the study? What was the role of the researcher (passive observer, instructor, unfamiliar interviewer, etc.)?
+    Are the study's procedures, protocols, and instruments described and justified?
+    Are there enough data to answer the research questions? Are there multiple sources/types of data? Is there sufficient detail to facilitate replication of the study?
+    Is the data analysis done properly and adequately explained? A reader with the original data should be able to replicate the analysis.
+    If a quantitative analysis is conducted, were the correct statistical tests applied?
+    If qualitative data were collected, was the analysis process thoroughly described?
+    Have threats to validity and estimates of reliability been reported?
+
+Results
+
+    For a quantitative study, was sufficient statistical information presented?
+    For a qualitative study, are there adequate (but not excessive) quotations or A/V clips, clearly illustrating the researcher's points? How representative are the data that were selected?
+    Do all the different types of data fit together into a consistent set of results? Were there any discrepant findings? If so, how were they explained?
+    Have triangulation and other attempts to establish consistency in the data been adequately reported and addressed?
+
+Conclusions
+
+    Are the research questions answered?
+    Does the article make a convincing analysis of the results? Are the conclusions supported by unambiguous interpretations of the data?
+    Is there a connection to a theoretical framework (either supporting or refuting)?
+    Are comparisons made to previous studies?
+    Are limitations of the study's findings or applicability discussed? Are the conclusions appropriate given the limitations?
+    Is there a need to include implications for instruction?
+
+References
+
+    Is the bibliography an adequate survey of the literature?
+    Are the references accurate? Does each reference really make the point mentioned in the paper?
+    Does the researcher rely too heavily on one type of literature (e.g., quantitative or qualitative) or their own previous work?
+
+The following should also be considered, but not used as grounds for rejection
+
+General
+
+    Is the paper easy to read? Is the English clear and concise? Are there grammatical or spelling errors? Could the paper be shorter?
+    Are the headings helpful?
+    Have appropriate keywords been indicated? Are there others that apply? (Keyword choice is critical for efficient searches of the literature. Poor keywords can keep an excellent article from ever being found.)
+    Does the paper follow APS guidelines for manuscript submission?
+
+Title
+
+    Is it sufficiently descriptive? (Keep in mind that this is all that most people will read when browsing an article database or a journal's table of contents. Does the title contain enough information to indicate the uniqueness of the study?)
+    Are there keywords in the title that will facilitate electronic searches? Should the title be changed? If so, in what way?
+
+Abstract
+
+    Is it detailed enough to communicate the main point of the study and the findings? (The abstract is not a "teaser" that presents just enough information to arouse curiosity. All important conclusions should be included.)
+    Is it clear and succinct?
+    Is it missing critical information?
+    Should the abstract be changed? If so, in what way?
+
+Results
+
+    Are tables and figures used appropriately? Too few or too many can hinder a reader. Should any be added or deleted? Should any be reformatted?
+
+References
+
+    Is it current? Are there key references missing? If so, which ones?
+    Are the citations in an APS-approved format?

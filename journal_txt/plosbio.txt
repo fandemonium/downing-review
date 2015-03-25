@@ -1,0 +1,123 @@
+PLOS Biology Guidelines for Reviewers
+
+If you have been invited to review a manuscript, please use the online manuscript submission system.
+
+Contents:
+
+About PLOS Biology
+Criteria for Publication
+The Review Process
+Reviewer Selection
+Writing the Review
+Other Questions for Consideration
+Peer Review for Magazine Articles
+Confidentiality
+Timely Review
+Anonymity
+Editing Reviewers' Reports
+Conflicts of Interest
+Feedback to Reviewers
+PLOS Biology and Other PLOS Journals
+1. About PLOS Biology
+
+PLOS Biology is an open-access* journal published by the PLOS. The journal features works of exceptional significance, originality, and relevance in all areas of biological science, from molecules to ecosystems, including works at the interface of other disciplines, such as chemistry, medicine, and mathematics. Our audience is the international scientific community as well as educators, policy makers, patient advocacy groups, and interested members of the public around the world.
+
+* Open access means that every paper is freely available for everyone to read, download, copy, distribute and use.
+
+2. Criteria for Publication
+
+To be considered for publication in PLOS Biology, any given manuscript must be exceptional in the following ways:
+
+Originality
+Importance to researchers in its field
+Interest to scientists outside the field
+Rigorous methodology and substantial evidence for its conclusions
+3. The Review Process
+
+All submitted manuscripts judged potentially suitable for the journal are formally peer reviewed. Manuscripts are evaluated by a professional editor working in conjunction with an academic editor, usually but not always from the editorial board. Together, the editors make a decision based on the reviewers' comments. There are several types of decision possible:
+
+Accept without revision
+Minor revision
+Major revision
+Reject, typically because it does not fit the criteria outlined above of originality, importance to the field, cross-discipline interest, or sound methodology
+Although reviewers are welcome to make a particular recommendation, they should do so with the understanding that other reviewers may offer other opinions. When such differences of opinion occur, the professional editor and the academic editor weigh all comments and arrive at a balanced decision based on these. To assist in this process, the reviewer should provide the editors with as much information as possible. A review that clearly outlines reasons both for and against publication is therefore of as much or even more value as one that makes a direct recommendation.
+
+If reviewers appear to disagree fundamentally, the editors may choose to share all the reviews with each of the reviewers and by this means elicit additional comment that may help the editors to make a decision. That said, although the reviewers' comments and opinions on the manuscript are very important, decisions are not made according to some sort of majority rule. Instead, the academic and professional editors evaluate the recommendations and comments of the reviewers alongside comments by the authors and material that may not have been made available to those reviewers.
+
+When a paper has been revised in response to comments by reviewers or when authors feel their argument has been misconstrued in review, we ask reviewers to offer additional comments on the revised or contested manuscript. We request that reviewers make themselves available to provide such follow-up advice. We are nevertheless aware that reviewers do not wish to be involved in extended discussions over papers, and we keep such consultations to a minimum while still allowing authors a fair hearing.
+
+4. Reviewer Selection
+
+The selection of appropriate and responsive reviewers is paramount to the success of the review process. We decide on reviewers for a particular manuscript based on many factors, including expertise, reputation, specific recommendations of authors and academic editors, and the professional editor's own knowledge of a reviewer's performance.
+
+As part of our editorial procedure, we regularly confer with potential reviewers before sending them manuscripts to review. Reviewers should bear in mind that even these initial messages or conversations contain confidential information, which should be regarded as such.
+
+5. Writing the Review
+
+The purpose of the review is to provide the academic and professional editors with an expert opinion regarding the quality of the manuscript under consideration. The review should also supply authors with explicit feedback on how to improve their papers so that they will be acceptable for publication in PLOS Biology. Although confidential comments to the editors are respected, any remarks that might help to strengthen the paper should be directed to the authors themselves. The best possible review would answer the following questions:
+
+What are the main claims of the paper and how significant are they?
+Are these claims sufficiently novel? If not, please specify papers that weaken the claims to the originality of this one.
+Are the claims properly placed in the context of the previous literature?
+Do the data support the claims? If not, what other evidence is required?
+Would any other experiments/data/analyses improve the paper? How much better would the paper be if these were performed, and how difficult would they be to do?
+Is this paper outstanding in its discipline? If yes, what makes it outstanding? If not, why not?
+Who would find this paper of interest? Why?
+If the paper is considered unsuitable for publication in its present form, does the study itself show sufficient potential that the authors should be encouraged to resubmit a revised version?
+6. Other Questions for Consideration
+
+In the case of manuscripts deemed worthy of consideration, we would appreciate additional advice from the reviewer on the following:
+
+Is the manuscript clearly enough written so that it is understandable to non-specialists? If not, how could it be improved? (Please concentrate on matters of organization and content and not on grammatical or spelling errors that will be corrected by our copyeditor after acceptance.)
+Have the authors provided adequate proof for their claims without overselling them?
+Have the authors treated the previous literature fairly?
+Does the paper offer enough details of its methodology that its experiments could be reproduced?
+PLOS Biology encourages authors to publish detailed protocols as supplementary information online. Do any particular methods used in the manuscript warrant such a protocol?
+7. Peer Review for Magazine Articles
+
+PLOS Biology aims to provide an open-access home for the very best papers in the life sciences. We also strive to publish timely and provocative articles in our "magazine" section. To be considered for publication in the "magazine" section of PLOS Biology, a manuscript must be well-written, timely or topical and present cogent arguments based on sound science. It should also be of broad interest.
+
+The purpose of the review is to provide the academic and professional editors with an expert opinion regarding the quality of the manuscript under consideration. The review should also supply authors with explicit feedback on how to improve their article so that it will be acceptable for publication in PLOS Biology. Although confidential comments to the editors are respected, any remarks that might help to strengthen the paper should be directed to the authors themselves.
+
+The review process for our "magazine" section articles is slightly less formal than peer review for research articles but we nevertheless expect the science and logic of the articles to be rigorous and precise. In addition to providing feedback on the soundness of the science and coherence of the argument presented, we would appreciate your general reaction to the article.
+
+In particular:
+
+Do you think the piece is interesting?
+Do you feel that it deals with an important or significant issue?
+Is the point of view well-argued and scientifically supportable?
+Do you have any comments or suggestions to improve the piece or expand its scope or interest?
+If the article is considered unsuitable for publication in its present form, does it show enough potential that the authors should be encouraged to resubmit a revised version?
+8. Confidentiality
+
+The review process is strictly confidential and should be treated as such by reviewers. Because the author may have chosen to exclude some people from this process, no one not directly involved with the manuscript, including colleagues or other experts in the field, should be consulted by the reviewer unless such consultations have first been discussed with the professional editor.
+
+9. Timely Review
+
+PLOS Biology believes that an efficient editorial process that results in timely publication provides a valuable service both to authors and to the scientific community at large. We therefore request that reviewers respond promptly, usually within ten (10) days of receipt of a manuscript. If reviewers need more time, we request that they contact us promptly so that we can keep the authors informed and, if necessary, assign alternate reviewers.
+
+10. Anonymity
+
+Unless reviewers have explicitly requested to be made known, we do not release their names either to authors or to other reviewers of the manuscript. We discourage any attempt on the part of authors to discover the identity of any reviewer or to contact this person directly. We encourage the reviewers to adopt the same policy.
+
+The academic editor is also anonymous to authors and reviewers unless and until a manuscript is accepted for publication. The academic editor's name is then indicated in the published article.
+
+11. Editing Reviewers' Reports
+
+The editors and PLOS staff do not edit any comments made by reviewers that are intended to be read by the authors unless the language is deemed inappropriate for professional communication or the comments contain information considered confidential. Such remarks should be reserved for the confidential section of the review form, which is intended to be read by the editors only. In their comments to authors, reviewers are encouraged to be honest but not offensive in their language. On the other hand, authors should not confuse frank and perhaps even robust language with unfair criticism.
+
+12. Conflicts of Interest
+
+As far as possible we respect requests by authors to exclude reviewers whom they consider to be unsuitable. We also, as much as possible, try to rule out those reviewers who may have an obvious competing interest, such as those who may have been collaborators on other projects with the authors of the manuscript under review, those who may be direct competitors, those who may have a known history of antipathy with the author(s), or those who might profit financially from the work. Because it is not possible for all such competing interests to be known by a particular editor, we request that reviewers who recognize a potential competing interest inform the editors or journal staff and recuse themselves if they feel that are unable to offer an impartial review.
+
+Click here for more general information on PLOS's policy regarding competing interests. When submitting your review you must indicate whether or not you have any competing interests.
+
+On occasion, reviewers may be asked to offer their opinion on a manuscript that they may have reviewed for some other journal. This is not in itself a competing interest. That two journals have identified the same person as especially well qualified to judge the manuscript under consideration does not in any way decrease the validity of that opinion and may perhaps even enhance it.
+
+13. Feedback to Reviewers
+
+We send reviewers' comments along with the decision letter to all reviewers of that manuscript. If reviewers have identified themselves, this information will be passed on to other reviewers. Reviewers who may have offered an opinion not in accordance with the final decision should not feel that their recommendation was not duly considered or their service not properly appreciated. Experts often disagree, and it is the job of the editorial team to make a final publication decision.
+
+14. PLOS Biology and Other PLOS Journals
+
+PLOS publishes several journals. Occasionally, editors recommend after peer review that a particular article is more suitable for another PLOS journal. If the authors choose to pursue that option, we transfer the manuscript and the reviews to the other journal. We expect that reviewers for any PLOS journal are willing to have their reviews considered by the editors of another PLOS journal.

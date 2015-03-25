@@ -1,0 +1,21 @@
+Instructions for Reviewers
+
+
+Structured Review Format
+
+Format: Does the format of the article (including structured abstract) conform to the JAAA Instructions to Authors? If not, how does the structure deviate?
+
+Importance/Relevance: What is the importance/relevance of the topic? Is the work original and does it add to the existing body of knowledge?
+
+Interest Level: Is the manuscript topic and results of interest to the readership of JAAA?
+
+Introduction/Background: Does the author review the relevant literature to serve as a foundation for the problem statement/hypothesis?
+
+Design and Methods: Is the research design sound, and are the methods correct?
+
+Results: Are the results sound? Are the analyses correct for the purpose? Has the author presented clearly the data from the investigation? Is there key data missing (e.g., evoked potential traces where tabular data only has been supplied)?
+
+Discussion/Conclusions: Does the author provide compelling discussion and conclusions that are consistent with the findings (or is the author "overreaching" in his or her discussion and conclusions)?
+
+Writing: Is the writing clear?
+

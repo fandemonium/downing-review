@@ -1,0 +1,69 @@
+Reviewer Guidelines
+
+Providing confidential quality reviews that are useful to authors and editors is critical to ensure that JBJS Reviews continues to serve the orthopaedic community as the premier online orthopaedic review journal. This document describes the peer review process at JBJS Reviews and provides criteria for evaluating manuscripts, instructions for preparing the reviews, the review categories, and the evaluation process.
+
+1. OVERVIEW OF THE PEER REVIEW PROCESS AT JBJS REVIEWS
+
+1.1 General Principles
+
+The Editor assigns manuscripts received by JBJS Reviews to Consultant Reviewers, Associate Editors, or Guest Reviewers for confidential blinded peer review. The manuscript is assigned to two or three reviewers on the basis of each reviewer's interests, areas of expertise, and prior reviewing performance.
+
+During the peer review process, reviewers should keep in mind that review articles should present a comprehensive, objective, and critical overview that is based almost exclusively on information that has been published in peer-reviewed reports. Authors of review articles should attempt to identify concepts on which there is a general agreement among the various parties as well as those over which there is particular controversy. Authors should present all sides of the issues in an even-handed fashion and should rely on articles that are based on solid scientific information and thoughtful clinical assessments. When authors quote the results of a clinical series, they should include the number of patients studied and a brief description of the methods used to determine the outcomes. Percentages should always be accompanied by the numerator and denominator to which they refer, and vice versa; e.g., "sixteen (8%) of 200 patients," "twenty-five (30%) of eighty-two samples," etc.
+
+1.2 Review Timeline
+
+JBJS Reviews requires that you return your review within 20 days. If you will not be able to complete your review in time, please contact JBJS Reviews immediately. We will let you know if a delay is acceptable. If a review has not been returned by the due date, you will receive an e-mail from JBJS Reviews as a reminder. You may also receive an e-mail reminder before your review is due.
+
+Please do not misunderstand this policy. JBJS Reviews is indebted to and appreciative of all of our reviewers and could not function without you. However, as an author yourself, you know the frustration resulting from a delayed decision. Returning reviews promptly is one important way in which you can help us to speed the editorial process. Occasionally declining to review a manuscript is understandable and is not viewed negatively by JBJS Reviews.
+
+1.3 Decision Process
+
+The decision to accept, invite to resubmit, or reject the paper will be based on evaluations of all reviewers. If there is a serious conflict among the reviewers' opinions, it will be resolved by the Editor, who may send the manuscript to additional reviewers.
+
+2. CRITERIA FOR REVIEW
+
+You have been asked to review this manuscript as an expert. A well-organized, detailed, thoughtful review will often be passed on to the author. Your review can be as critical as you judge necessary. Your review should NOT be signed, nor should it be possible to otherwise identify you as the reviewer. Your comments should be helpful to the author(s) and should never be demeaning or pejorative. The review process allows you to enter comments in two fields: (1) a field for comments that will be sent to the corresponding author and (2) a separate field for comments intended primarily for the Editor that will not be transmitted to the author (see Item 5 below). Your review should consist of two parts: (1) overall comments and (2) specific comments.
+
+2.1 Overall Comments
+
+It is of utmost importance that you place the study in the proper context and comment on the place that the study has within the breadth of previously reported information by evaluating its relevance to clinical practice, balance, and clarity of presentation. This part of the review should consist of two or three paragraphs.
+
+2.2 Specific Comments
+
+This part of the review should consist of a detailed listing of your specific concerns with the manuscript. Each item in the list should refer to a specific location in the text (including the page, paragraph, and line numbers). Your specific, precise comments will be valuable to the authors when they revise their work. Constructive criticism will be appreciated. In addition, the required format of numbered paragraphs with reference to specific page and line numbers will be useful to the Editor when he writes the decision letter to the author(s).
+
+In addition to the text, the following elements of the manuscript should be assessed.
+
+Title: Does the title clearly describe the subject and purpose of the review article?
+Organization: Is the organization of the manuscript satisfactory? Does the text provide the reader with all of the information that is needed in each section?
+Illustrations: Are all of the illustrations appropriate and necessary? If not, which ones would you delete? Are the legends adequate?
+Tables: Tables are useful if they contain information that cannot be easily summarized in the text. Are all of the tables necessary, or could several tables be combined? Are clarifications or additional columns needed? Please suggest changes if you believe that they would help the author to present the information more clearly.
+Bibliography: Is the bibliography complete without being excessive?
+Punctuation and Grammar: You do NOT need to concern yourself with these types of changes. Only review the medical substance of the manuscript. However, JBJS Reviews receives many manuscripts from foreign countries, and you should comment if you believe that problems in translation prevent you from understanding the content.
+3. DECISION CATEGORIES FOR REVIEWERS
+
+Manuscripts should be classified into one of three general categories, which appear in a pull-down menu in Editorial Manager's reviewer recommendation screen. Don't forget to choose your decision before pasting your comments into the text boxes. We realize that not all manuscripts fit neatly into categories; however, most manuscripts will fit into one of the following categories.
+
+A
+
+A category-A paper is completely suitable for JBJS Reviews and is both educational and informative. Minor deficiencies may need to be addressed and minor clarifications and corrections may be required, but the overall presentation of the material is excellent.
+
+B
+
+A category-B paper is also suitable for JBJS Reviews but requires more substantive revisions. It is your assessment that these deficiencies can be corrected by the author.
+
+C
+
+A category-C paper should not be published in JBJS Reviews because the subject matter is not suitable or the content is not of sufficient educational value. As a reviewer, you must believe strongly that your reservations concerning the manuscript are valid and that the authors cannot correct the deficiencies. List two or three major reasons why you believe the manuscript should be rejected. If you are convinced that a manuscript should be rejected, it is neither necessary nor desirable for you to write as detailed a review as is needed when the author is being asked to revise the paper. Be objective and do not write pejorative comments when rendering a C decision.
+
+4. CORRESPONDENCE TO AUTHORS
+
+After all reviews have been received, the Editor will compose a letter to the corresponding author. The purposes of this letter are to inform the author of the decision and to provide the author with instructive feedback. While reviewers' comments to the author are often directly quoted in the decision letter, the Editor may also, on occasion, paraphrase in the letter comments that a reviewer has directed to the Editor.
+
+5. EVALUATION OF REVIEWER PERFORMANCE
+
+In order to meet our goal of timely and thorough review of submitted manuscripts, reviewer performance is evaluated by the Editor. These evaluations are kept in a confidential database. Notes regarding performance are made on the reviewers' record in the database. Reviewers with consistently poor evaluations are removed.
+
+RECOMMENDED READING
+
+COPE Ethical Guidelines for Peer Reviewers

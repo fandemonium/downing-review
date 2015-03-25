@@ -1,0 +1,104 @@
+Guide to referees
+General policies
+
+A general peer-review policy for all Nature journals is available.
+
+Online manuscript review
+
+We strongly encourage referees to submit their comments via our online submission system by following the link provided in the editor's email. For help with the system, please contact the journal's editorial assistant.
+
+Criteria for publication
+
+Nature Plants receives many more submissions than it can publish each month. Therefore, we ask referees to keep in mind that every paper that is accepted means that another good paper must be rejected. To be published in Nature Plants, a paper should meet several general criteria:
+
+The data are technically sound
+The paper provides strong evidence for its conclusions
+The results are novel (we do not consider abstracts and internet preprints to compromise novelty)
+The manuscript is important to researchers in its specific field
+The paper will be interesting to a general audience of those working in the area of plants sciences
+In general, to be acceptable, a paper should represent an advance in understanding likely to influence thinking in the field. There should be some reason why the work deserves the visibility of publication in Nature Plants rather than a specialist journal.
+
+The review process
+
+All submitted manuscripts are read by the editorial staff. To save authors and referees time, only those papers that seem most likely to meet our editorial criteria are sent for formal review. Those papers judged by the editors to be of insufficient general interest or otherwise inappropriate are rejected promptly without external review (although these decisions may be based on informal advice from experts in the field).
+
+Manuscripts judged to be of potential interest to our readership are sent for formal review, typically to three reviewers. The editors then make a decision, based on the reviewers' advice, from among several possibilities:
+
+Accept, with or without editorial revisions
+Invite the authors to revise their manuscript to address specific concerns before a final decision is reached
+Reject, but indicate to the authors that further work might justify a resubmission
+Reject outright, typically on grounds of specialist interest, lack of novelty, insufficient conceptual advance or major technical and/or interpretational problems
+Referees are welcome to recommend a particular course of action, but they should bear in mind that other referees may have different views, and the editors may have to make a decision based on conflicting advice. The most useful reports, therefore, provide the editors with the information on which a decision should be based. Setting out the arguments for and against publication is often as helpful as a direct recommendation one way or the other.
+
+Editorial decisions are not a matter of counting votes or numerical rank assessments, and we do not always follow the majority recommendation. We try to evaluate the strength of the arguments raised by each referee and by the authors, and we may also consider other information not available to either party. Our primary responsibilities are to our readers and to the scientific community at large, and in deciding how best to serve them, we must weigh the claims of each paper against the many others also under consideration.
+
+We may go back to referees for further advice, particularly in cases where referees disagree with each other, or where the authors believe they have been misunderstood on points of fact. We therefore ask that referees be willing to provide follow-up advice as requested. We are very aware, however, that referees are normally reluctant to be drawn into prolonged disputes, so we try to keep consultation to the minimum we judge necessary to provide a fair hearing for the authors.
+
+When referees agree to review a paper, we consider this a commitment to review subsequent revisions as well. However, editors will not send resubmitted papers to the referees if it seems that the authors have not made a serious attempt to address the referees' criticisms.
+
+We take referees' criticisms very seriously, and in particular, we are very reluctant to disregard technical criticisms. In cases where one referee alone opposes publication, we may consult with the other referees as to whether s/he is applying an unduly critical standard. We occasionally bring in additional referees to resolve disputes, but we prefer to avoid doing so unless there is a specific issue on which we feel a need for further advice.
+
+Selecting referees
+
+Referee selection is critical to the review process, and we base our choice on many factors, including expertise, reputation, specific recommendations and our own previous experience of a referee's characteristics. For instance, we avoid using referees who are chronically slow, careless, too harsh or too lenient.
+
+We normally check with potential referees before sending them manuscripts to review. Referees should bear in mind that these messages contain confidential information, which should be treated as such.
+
+Writing the review
+
+The primary purpose of the review is to provide the editors with the information needed to reach a decision. It should also instruct the authors on how they can strengthen their paper to the point where it may be acceptable. As far as possible, a negative review should explain to the authors the weaknesses of their manuscript, so that rejected authors can understand the basis for the decision. This is secondary to the other functions, however, and referees should not feel obliged to provide detailed advice to authors of papers that do not meet the criteria for Nature Plants.
+
+Confidential comments to the editor are welcome, but it is helpful if the main points are stated in the comments for transmission to the authors. The ideal review should answer the following questions:
+
+What are the major claims of the paper and how significant are they?
+Are the claims novel? If not, please identify the major papers that compromise novelty.
+Who will be interested and why?
+Does the paper stand out in some way from others in its field?
+Are the claims convincing? If not, what further evidence is needed?
+Are there other experiments that would strengthen the paper further? How much would they improve it, and how difficult are they likely to be?
+Are the claims appropriately discussed in the context of previous literature?
+If the manuscript is unacceptable in its present form, does the study seem sufficiently promising that the authors should be encouraged to consider a resubmission in the future?
+Other questions for referees to consider
+
+For manuscripts that may merit further consideration, it is also helpful if referees can advise on the following points:
+
+Is the manuscript clearly written? If not, how could it be made more clear or accessible to non-specialists? (It is unnecessary to provide detailed comments on grammar or spelling, which will be handled by our copy editor in the event of acceptance.)
+Could the manuscript be shortened (given the pressure on space in our pages)?
+Have the authors done themselves justice without overselling their claims?
+Have they been fair in their treatment of previous literature?
+Have they provided sufficient methodological detail that the experiments could be reproduced?
+Is the statistical analysis of the data sound?
+Should the authors be asked to provide supplementary methods or data on the Nature Plants website? (Such data might include source code for modelling studies, detailed methods or mathematical derivations.)
+Confidentiality
+
+We ask referees to treat the review process as strictly confidential, and not to discuss the manuscript with anyone not directly involved in the review. It is acceptable to consult with laboratory colleagues, but please identify them to the editors. Consulting with experts from outside the referee's own laboratory may be acceptable, but please check with the editors before doing so, to avoid involving anyone who may have been excluded by the authors.
+
+10. Timing
+
+Nature Plants is committed to rapid editorial decisions and publication, and we believe that an efficient editorial process is a valuable service both to our authors and to the scientific community as a whole. We therefore ask referees to respond promptly (normally within two weeks of receiving a manuscript, although this may be either longer or shorter by prior arrangement). If referees anticipate a longer delay, we ask them to let us know so that we can keep the authors informed and, where necessary, find alternative referees.
+
+Anonymity
+
+We do not release referees' identities to authors or to other referees, except when referees specifically ask to be identified. Unless they feel strongly, however, we prefer that referees remain anonymous throughout the review process. Before revealing their identities, referees should consider the possibility that they may be asked to comment on the criticisms of other referees; identified referees may find it more difficult to be objective in such circumstances.
+
+We ask referees not to identify themselves to authors without the editor's knowledge. If they wish to reveal their identities, this should be done through the editor.
+
+We deplore any attempt by authors to confront referees or determine their identities. Our own policy is to neither confirm nor deny any speculation about referees' identities, and we encourage referees to consider adopting a similar policy.
+
+Editing referees' reports
+
+As a matter of policy, we do not suppress referees' reports; any comments that were intended for the authors are transmitted, regardless of what we may think of the content. On rare occasions, we may edit a report to remove offensive language or comments that reveal confidential information about other matters. We ask referees to avoid saying anything that may cause needless offence; conversely, authors should recognize that criticisms are not necessarily unfair simply because they are expressed in robust language.
+
+Competing interests
+
+Our normal policy is to avoid referees whom the authors have excluded, for whatever reason. We also usually try to avoid referees who have recent or ongoing collaborations with the authors, who have commented on drafts of the manuscript, who are in direct competition to publish the same finding, who we know to have a history of dispute with the authors, or who have a financial interest in the outcome. It is not possible for the editors to know of all possible biases, however, so we ask referees to draw our attention to anything that might affect their review, and to decline to review in cases where they feel unable to be objective.
+
+We recognize, however, that competing interests are not always clear-cut, and the above circumstances need not automatically undermine the validity of a report. Indeed, the people best qualified to evaluate a paper are often those closest to the field, and a sceptical attitude toward a particular claim does not mean that a referee cannot be persuaded by new evidence. We try to take these factors into account when weighing referees' reports.
+
+Referees who have reviewed a paper for another journal might feel that it is unfair to the authors for them to re-review it for Nature Plants. We disagree; the fact that two journals have independently identified a particular person as well qualified to review a paper does not, in our view, decrease the validity of his or her opinion.
+
+Feedback to referees
+
+When we ask referees to re-review a manuscript that has been revised in response to their criticisms, we normally send them copies of the other referees' comments. We routinely inform referees of our decisions and send copies of the other referees' reports by email.
+
+We normally inform referees when a paper is accepted despite their negative recommendation. Referees who are overruled should realize that this does not imply any lack of confidence in their judgment; it is not uncommon for experts to disagree, and in the absence of a consensus, the editors must still reach a decision one way or the other.

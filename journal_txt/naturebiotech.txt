@@ -1,0 +1,12 @@
+The primary purpose of the review is to provide the editors with the information needed to reach a decision. It should also instruct the authors on how they can strengthen their paper to the point where it may be acceptable. As far as possible, a negative review should explain to the authors the weaknesses of their manuscript, so that rejected authors can understand the basis for the decision. This is secondary to the other functions, however, and referees should not feel obliged to provide detailed advice to authors of papers that do not meet the criteria for Nature Biotechnology.
+
+Confidential comments to the editor are welcome, but it is helpful if the main points are stated in the comments for transmission to the authors. The ideal review should answer the following questions:
+
+    What are the major claims of the paper and how significant are they?
+    Are the claims novel? If not, please identify the major papers that compromise novelty.
+    Who will be interested and why?
+    Does the paper stand out in some way from others in its field?
+    Are the claims convincing? If not, what further evidence is needed?
+    Are there other experiments that would strengthen the paper further? How much would they improve it, and how difficult are they likely to be?
+    Are the claims appropriately discussed in the context of previous literature?
+    If the manuscript is unacceptable in its present form, does the study seem sufficiently promising that the authors should be encouraged to consider a resubmission in the future?

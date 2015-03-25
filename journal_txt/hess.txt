@@ -1,0 +1,34 @@
+Scientific significance:
+Does the manuscript represent a substantial contribution to scientific progress within the scope of Hydrology and Earth System Sciences (substantial new concepts, ideas, methods, or data)?	 	 	 	 
+Scientific quality:
+Are the scientific approach and applied methods valid? Are the results discussed in an appropriate and balanced way (consideration of related work, including appropriate references)?	 	 	 	 
+Presentation quality:
+Are the scientific results and conclusions presented in a clear, concise, and well-structured way (number and quality of figures/tables, appropriate use of English language)?	 	 	 	 
+Access review, peer review, and interactive public discussion (HESSD)
+
+Manuscripts submitted to HESS at first undergo a rapid access review by the editor (initial manuscript evaluation), which is not meant to be a full scientific review but to identify and sort out manuscripts with obvious deficiencies in view of the above principal evaluation criteria. Since a HESSD paper will be publicly accessible on the web, it should meet general criteria of readability. It should be well-written, well-referenced and well-structured. Figures and tables should be in good shape and referred to accordingly. In addition, the paper should contribute something new and interesting to the hydrological community.
+
+If they are not immediately rejected, they will be published on the Hydrology and Earth System Sciences Discussions (HESSD) website, the discussion forum of HESS, where they are subject to full peer review and interactive public discussion.
+
+In the full review and interactive discussion, the referees and other interested members of the scientific community are asked to take into account all of the following aspects:
+
+Does the paper address relevant scientific questions within the scope of HESS?
+Does the paper present novel concepts, ideas, tools, or data?
+Are substantial conclusions reached?
+Are the scientific methods and assumptions valid and clearly outlined?
+Are the results sufficient to support the interpretations and conclusions?
+Is the description of experiments and calculations sufficiently complete and precise to allow their reproduction by fellow scientists (traceability of results)?
+Do the authors give proper credit to related work and clearly indicate their own new/original contribution?
+Does the title clearly reflect the contents of the paper?
+Does the abstract provide a concise and complete summary?
+Is the overall presentation well structured and clear?
+Is the language fluent and precise?
+Are mathematical formulae, symbols, abbreviations, and units correctly defined and used?
+Should any parts of the paper (text, formulae, figures, tables) be clarified, reduced, combined, or eliminated?
+Are the number and quality of references appropriate?
+Is the amount and quality of supplementary material appropriate?
+
+Peer-review completion (HESS) 
+
+At the end of the interactive public discussion, the authors may make their final response and submit a revised manuscript. Based on the referee comments, other relevant comments, and the authors' response in the public discussion, the revised manuscript is re-evaluated and rated by the editor. If rated 1–2 (excellent–good) in all of the principal criteria and specific aspects listed above, it will normally be accepted for publication in HESS. Additional advice from the referees in the evaluation and rating of the revised manuscript will be requested by the editor if the public discussion in HESSD is not sufficiently conclusive.
+

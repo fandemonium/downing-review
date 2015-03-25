@@ -1,0 +1,56 @@
+ We recognize that reviewing a paper requires considerable investment of your time and energy. We thank you for your contributions and hope that the following suggestions will make your review and the subsequent submission of your report easier. They are intended as an aid to you while you are reviewing the paper and follow closely the Acceptance Criteria of Physical Review X: Originality, high technical quality, scientific rigor, and high degree of significance.
+
+We suggest that you divide the outcome of your review of the paper into two broad parts: I) Comments intended for both the author(s) and the editors; II) Recommendations and comments to the editors. In Part I), please avoid, as much as possible, making statements about the acceptability of the paper.
+
+I) Comments intended for both the author(s) and the editors:
+
+A) Brief summary of the paper (not necessary, but always helpful to the editors)
+
+B) Assessment of originality and significance: Rate the paper and explain your ratings
+
+    Degree of originality: Negligible [  ] Low [  ] High [  ]
+    Significance: Not Significant [  ] Marginal [  ] Significant [  ] Highly Significant [  ]
+
+If your ratings are (very) positive, please describe concretely the original contribution(s) and explain why it is (they are) important to the relevant subject area(s).
+
+Otherwise, please explain why you have rated the paper negatively. A list of major issues that arise often is given below as an aid to you:
+
+    Motivations for doing the work not compelling or significant. (Please explain why.)
+    Idea(s) or method not original, or similar work already done by others. (Please list existing literature that demonstrates your point.)
+    Advance or gain in understanding and insights incremental or not of significance to the target community. (Please explain why.)
+    Many pertinent questions or issues unexplored. (Please explain what those issues are.)
+
+C) Assessment of technical quality and scientific rigor
+
+    Is the work reported competently executed and technically correct? Yes [  ] Maybe [  ] No [  ]
+    Are the models or approximations used sufficiently justified? Yes [  ] Maybe [  ] No [  ]
+    Are the main conclusions or claims well supported or sufficiently substantiated? Yes [  ] Maybe [  ] No [  ]
+    Overall level of the paper's scientific quality based on the above High [  ] Average [  ] Low [  ]
+
+Please explain your answers and rating(s) concretely and list them as major and minor issues if appropriate.
+
+D) Assess quality of the paper's presentation
+
+    Are the title and abstract informative, concise and clear?
+    Is the paper well organized and clearly written?
+    Is the description of the technical content sufficiently comprehensive?
+    Are the references (including citations) to the pertinent literature adequate?
+    Is the Supplemental Material appropriate?
+
+Rating: Excellent [  ] Good [  ] Average [  ] Marginal [  ] Poor [  ]
+
+Please provide your complimentary and/or critical remarks, the latter in terms of major and minor issues if appropriate.
+
+E) Specific suggestions to the author(s) on how to improve the paper. (This is especially relevant if you believe that the paper has a good potential of becoming publishable in PRX. Please try to avoid presenting the suggested revisions as conditions of acceptance.)
+
+    Those corresponding to your criticisms described in A through D
+    Any additional points
+
+II) Recommendation(s) and confidential remarks to the editors:
+
+    [  ] Immediate acceptance or with minor (or optional) revision (no further review)
+    [  ] No acceptance now, but invite and reconsider a resubmission that addresses my criticism
+    [  ] No acceptance now, but worth reconsidering if further work and major revisions are performed - the paper has significant potential
+    [  ] Rejection now and no reconsideration
+
+Please provide additional confidential remarks to the editors if you have any. 

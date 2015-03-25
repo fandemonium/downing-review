@@ -1,0 +1,80 @@
+Guidance Notes for Reviewers of manuscripts submitted to
+Hydrology Research: an International Journal
+Different types of paper are published in HR: Research Papers, Invited Papers,
+Comments (on a Research Paper) and Responses (by Authors to Comments). These
+Guidance Notes are concerned mostly with Research Papers and complement the
+online Reviewer Tutorial, which helps with the process of uploading reviews. We do
+not want to be over-prescriptive for experienced Reviewers; they will know what
+makes a good research paper. However, even experienced Reviewers may find some
+of the following points useful reminders. We hope less-experienced Reviewers will
+find the Guidance Notes useful. Feedback from Reviewers is welcome.
+Reviewers are encouraged to look at the Instructions to Authors. If Authors have
+departed from the Instructions the Reviewer is requested to draw attention to this in
+their review. Looking at things from the opposite direction, Authors are encouraged to
+look at these Guidance Notes to help them self-assess their written work from a
+detached perspective and be mindful of what Reviewers (and readers of the journal)
+may be looking for in a good, well-written, interesting paper.
+As an international journal, Hydrology Research welcomes manuscripts from all over
+the world. Irrespective of the English language competency of the Corresponding or
+lead Author, Reviewers are encouraged to comment on the quality of the written
+English in submitted manuscripts and to recommend rejection if it is not, in their
+opinion, (a) adequate to enable a review to their satisfaction or (b) good enough for
+publication. Most cases of manuscripts where the written English is clearly not to the
+required standard should be filtered-out by the Editors (rejected without review) but
+some such cases may reach Reviewers. Where the Author (or at least one of the
+Authors where there is more than one) is known to have a high English language
+competency the Reviewer should expect the written English to be excellent. Most
+Reviewers are willing to correct a few small errors in, and suggest a few
+improvements to, the written English of a manuscript if required. Any help a
+Reviewer wishes to give the Author(s) towards improving the written English is
+welcome (additional uploaded annotated manuscripts by Reviewers can be helpful to
+Authors) but there is no expectation on the Reviewer for substantial, time-consuming,
+inputs of this nature – the quality of the written English is the responsibility of the
+Author(s).
+Reviewers are requested to check that the manuscript has been written for an
+international audience. Phrases and terms that are well understood locally but not
+necessarily internationally should be defined for the international reader. The
+manuscript should be of interest internationally (at least regionally) even if the study
+topic and objectives are related to a specific small catchment or field study area.
+Comments on the Title and Abstract are always welcome. When a Title is in the form
+of a question that question must be explicitly addressed and answered in the paper.
+The Abstract should say what the paper does and achieves (including some of the
+most important results). The Abstract should not include introductory text. The
+Introduction should skilfully and succinctly set the scene for what follows, placing the
+work to be presented in the context of relevant published work. 
+Throughout the manuscript, citations (especially self-citations) should not be
+gratuitous and they must be preceded by “e.g.” when appropriate. Long lists of
+citations are discouraged. Citations should be to English language publications from a
+variety of sources (including Hydrology Research, when appropriate), directing the
+Reviewer (and the reader generally) to further relevant reading. There should be a
+good number of citations of recent publications. The number of citations of
+conference proceeding publications should not be more than about one to every
+fifteen journal papers cited. All publications listed in the References should be readily
+available internationally. There must be a Reference for each unique citation, and
+there must not be any publication listed in the References that does not have at least
+one citation in the text.
+The structure of the manuscript should be such that any unnecessary repetition of
+information, reasoning or argument is avoided. Manuscripts should be self-contained
+to the extent that it is not essential for the reader to consult other publications to
+follow the arguments presented. However, some level of prior knowledge on the part
+of the reader has to be assumed by Authors, so the required degree of selfcontainment
+is a matter of judgement by Reviewers. The Reviewer is asked to
+consider that readers wishing to learn from a published paper may not have a level of
+expertise in the subject area as high as the Reviewer’s. Reviewers are requested to
+report cases of cut-and-paste of text, etc, from published papers. The Editors
+welcome assistance from Reviewers in the detection and reporting of any form of
+plagiarism.
+The narrative style should be consistent throughout. When referring to actions,
+decisions, views, etc, by or of the Authors, terms like “I”, “we” and “our” are strongly
+discouraged. The third person narrative style should be used consistently throughout.
+Manuscripts should include sufficient information to allow independent reproduction
+of the results presented. This information should include details about the nature of,
+and access to, data and techniques employed that are not included explicitly in the
+main text or in Appendices.
+The work submitted for publication should have novel aspects. These should be clear
+from the manuscript, and the Reviewer should be satisfied that the claim(s) for
+novelty are reasonable and justified.
+A good Research Paper offers new insights arising from the work presented. It can
+also offer views and suggestions concerning where the work leaves the topic, future
+work required, etc. With these points in mind, a Research Paper should be more than a
+report written for a small audience or a specific commissioning body. 

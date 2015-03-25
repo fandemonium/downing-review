@@ -1,0 +1,98 @@
+Review Guidelines
+Frontiers Reviews significantly redefine the assignments for both authors and editors in order to guarantee the most accurate, efficient and impartial reviews in academic publishing. Frontiers reviews largely rely on the advanced IT functionalities of the Frontiers platform and are typically articulated into two consecutive phases:
+INDEPENDENT REVIEW
+During the Independent Review phase, the review editors assess the paper independently from each other and the authors, according to a standardized review template.
+INTERACTIVE REVIEW
+During the Interactive Review phase, authors and Review Editors can interact with each other through real-time comments in the discussion forum. The Associate Editor and if required the Specialty Chief Editor can also enter the Review Forum and oversee this review process.
+Frontiers Review at a Glance
+Frontiers Full Review
+Frontiers Short Review
+Frontiers Review at a Glance
+
+
+
+The Frontiers Review System provides and guarantees:
+OPEN REVIEWS
+Frontiers is striving to remove any bias from the review process and acknowledge the reviewers for the significant contributions in improving the paper. To guarantee the most transparent and objective reviews, the identities of review editors remain anonymous during the review period. Only in case an article is accepted do their names appear on the published manuscript, without exceptions. However, if for any reasons a review editor withdraws during any stage of the review process, his/her name will not be disclosed.
+STANDARDIZED AND HIGH QUALITY REVIEWS
+Frontiers provides a review template to make reviews systematic and convene the efforts of review editors exclusively on objective issues. The review must focus solely on the quality of both the research and the manuscript, and aim at providing constructive comments to bring the final paper to its best quality. This allows fair, rapid, comprehensive and comparable assessment of research. The evaluation of the research will be done successively by means of the Frontiers Evaluation System. Moreover, Frontiers provides authors with the highest quality review service by assigning only the world’s top researchers to the Frontiers Boards of editors.
+INTERACTIVE REVIEWS
+Our Interactive Review Forum facilitates the review process by enabling all participants (authors, review editors, the associate editor and, if need be, the specialty chief editor) to view reports and directly communicate with one another to easily address comments regarding an article. Indeed, the goal of the Interactive Review is to facilitate convergence of opinions. This phase allows unlimited rounds of reviews and resubmissions, until the manuscript is deemed acceptable.
+OBJECTIVE REVIEWS
+Frontiers promotes a strict separation between review and evaluation. Review editors may comment only in regard to objective issues and may recommend rejection based exclusively upon objective errors. The mandate for review editors is to ensure that the results are valid, the analysis is flawless and the quality as high as possible. The significance of articles is separately evaluated by the entire community by means of the Frontiers Evaluation System.
+ARBITRATIONS
+Should a dispute arise that threatens to reject an article, the author may trigger arbitration. In the first place, the associate editor will arbitrate and involve all review editors in a discussion aimed at resolving the dispute. If a resolution cannot be agreed upon, the specialty chief editor is alerted and can opt to bring in additional review and associate editors for consultation. An article can be rejected if the arbitration rules that the objective error stands. Review editors are entitled to trigger arbitration, too, if they reckon that the author is reluctant to make required changes. Review editors may withdraw from the review process if they disagree with other editors, the authors and the arbitration rulings (in which case their identity remains undisclosed). The withdrawal of a review editor requires the recruitment of a new one, and significantly slows down the process. Therefore, authors are encouraged to co-operate as much as possible in addressing the concerns of the review editors involved with their articles.
+CONFLICTS OF INTEREST
+Frontiers is committed to upholding the highest standards of publication ethics and takes publication malpractice and conflicts of interest very seriously (see our Author Conditions). Some personal, financial and professional affiliations or relationships may be considered conflicts of interest. All authors and all members of Frontiers Editorial Boards are required to disclose any actual and potential conflicts of interest at submission or upon accepting an editorial or review assignment.
+
+The Frontiers review system is designed to guarantee the most transparent and objective editorial and review process, and because associate and review editors' names are made public upon the publication of articles, conflicts of interest will be openly and widely apparent.
+
+If you can answer yes to any of the questions below, Frontiers considers this to be a potential conflict of interest. If you have any doubt about whether a relationship or an interest qualifies as a conflict of interest, it is always better to disclose this potential conflict such that senior editors and the Frontiers Editorial Office can determine whether it necessitates disclosure in the manuscript, or whether an alternate reviewer or editor should be assigned.
+
+Authors:
+1. Did you or your institution at any time receive payment or services from a third party for any aspect of the submitted work?
+2. Do you have financial relationships with entities that could be perceived to influence, or that give the appearance of potentially influencing, what you wrote in the submitted work?
+3. Do you have any patents and copyrights, whether pending, issued, licensed and/or receiving royalties related to the research?
+4. Do you have other relationships or activities that readers could perceive to have influenced, or that give the appearance of potentially influencing, what you wrote in the submitted work?
+
+Associate and Review Editors:
+FAMILY	1. Is the editor or any of the authors a spouse or significant other, a family member or a close personal friend?
+COLLABORATIONS	2. Are you currently hosting or have hosted a Frontiers Research Topic with the editor or any of the authors within the past 2 years?
+3. Are you currently collaborating or have you collaborated on a research project or a publication with any of the authors within the past 2 years?
+4. Are you currently collaborating or have you collaborated with any of the authors as an advisor or in any other direct supervisory capacity in the past five years?
+5. Are you currently collaborating or have you collaborated with any of the authors as a student or in any other direct subordinate capacity in the past five years?
+AFFILIATION	6. Are you affiliated with the same institution as the editor or any of authors? If so, has this resulted in interactions, collaborations, or mutual interests that would compromise your impartiality in conducting this review?
+7. Are you a current member of a committee or department that coincides with an affiliation with the editor or any of the authors?
+FINANCIAL	8. Do you have a business or professional partnership with any author?
+9. Do you have financial interests or business relations with any organization involved in this research or in the preparation of the manuscript?
+10. Do you have any financial interest in the content of the manuscript that might affect your ability to perform an objective review?
+Associate Editors must report actual or potential conflicts of interest to the journal's Editorial Office.
+Review Editors must report actual or potential conflicts of interest both to both the journal's Editorial Office and the Associate Editor handling the manuscript.
+
+In case of doubt, please contact with no delay the Frontiers Editorial Office at editorial.office@frontiersin.org.
+PUBLICATION ETHICS AND MALPRACTICE
+Frontiers takes issues relating to Publication Ethics very seriously. Frontiers endeavors to follow the guidelines and best practice recommendations published by the Committee on Publication Ethics (COPE).
+Authors are expected to abide by ethical standards in regards to the attribution of authorship, conflicts of interest, respect of ethical considerations in the use of experimental animal and human subjects, financial support disclosures and participation in the peer review process. Additionally, cases of invalid or fraudulent data, plagiarism and dual submissions will constitute grounds for rejection. Please refer to the Frontiers General Conditions for complete details on the authors’ responsibilities.
+Frontiers Reviewers and Editors are also expected to abide by ethical standards in regards to conflicts of interest, confidentiality of the reviewed papers, objective evaluation of the work and preservation of reviewers’ anonymity until acceptance. Editors bear the authority and responsibility for the acceptance of papers.
+Frontiers will look at allegations of misconduct both before and after publication. Corrections or retractions will be published if necessary, in order to maintain the integrity of the academic record. The Frontiers Editorial Office should be contacted immediately on suspicions of misconduct.
+Full Peer Review
+
+The following articles types are attributed a full, standardized peer review:
+Tier 1: Original Research Articles, Review Articles, Hypothesis & Theory Articles, Methods Articles, Perspective Articles, Technology Reports, Clinical Trial Articles, Mini Reviews, Clinical Case Studies, General Commentaries, Opinion Articles, and CPC.
+Tier 2: Focused Reviews, Frontiers Commentaries.
+POST SUBMISSION STEPS
+Following the Frontiers online manuscript submission, an associate editor of the relevant Frontiers Specialty is immediately invited to take on the manuscript editorial assignment. After a preliminary content check, the associate editor may either decide to send the manuscript out for review or recommend it for immediate rejection to the specialty chief editor.
+In the latter case, the specialty chief editor may confirm the associate editor’s recommendation of immediate article rejection due to the following reasons:
+An objective error (generally accepted by the community and not one that would be debatable by some);
+An excessive number of language errors;
+Lack of research quality or ethical standards.
+The specialty chief editor may, nevertheless, override the associate editor's recommendation and decide that the manuscript deserves being reviewed, in which case he/she will assign the article to a new associate editor who agrees to send the article for review.
+The associate editor then assigns the article to at least two review editors, either selected from the Frontiers Board of review editors or appropriately recruited among the experts in the area. The whole process described above is a rapid one, since review editors are invited within one week from article submission and must accept or decline a review invitation within a few business days.
+INDEPENDENT REVIEW PHASE
+Within ten days after being assigned to an article, the review editors shall submit the standardized Frontiers Independent Review Report via the online review forum. The associate editor is automatically notified as soon as each of the Independent Review Reports is submitted.
+During the Independent Review phase, the review editors assess the paper independently from each other and the authors, according to our standardized review template.
+Once all review editors have submitted an Independent Review Report, the associate editor is responsible for activating the successive phase of the Frontiers Review, i.e. the Interactive Review Forum. Even if the Independent Review Reports are unfavorable to the authors, the Interactive Review Forum must be activated to allow authors the opportunity of rebuttal.
+INTERACTIVE REVIEW PHASE
+Once the Associate Editor activates the Interactive Review Forum, authors are immediately notified to enter the forum, where they are able to view the review comments. Authors are asked to respond and/or submit a revised manuscript within 15, 25 or 35 days, depending on the level of revisions requested by the Associate Editor.
+The associate editor can access and post comments in the review forum anytime. Additionally, the associate editor monitors the discussions occurring between authors and review editors within this forum, and ensures not only the timeliness, but also the constructiveness of the participants’ interaction. Should a dispute arise at this stage, the associate editor must act as a mediator, working with all parties involved to resolve the issues and even inviting new review editors for further opinions. If the disagreement persists, the specialty chief editor is then obliged to enter the Interactive Review Forum, examine the situation and take a final decision, as to whether the review should be ended by article rejection or continued by a new set of editors.
+When a disagreement cannot be resolved to the satisfaction of a review editor, the latter is in full right to withdraw from the review at any phase, in which case the associate editor may choose to invite another review editor.
+At this stage, a manuscript may be rejected for the following reasons:
+an objective error is found that cannot be corrected;
+experiments are found to be invalid;
+authors are unable or unwilling to address issues raised by the review editors.
+The review is complete once all review comments are addressed to the review editors' satisfaction.
+ARTICLE ACCEPTANCE
+If the review editors endorse publication of the manuscript in its current form, they must finalize their Interactive Review Reports, which automatically notifies the associate editor. The associate editor can then either accept the final version of the manuscript, or request further changes as necessary, typically within five days. Provisional acceptance of a manuscript can be done by associate editors and does not require the approval of the specialty chief editor.
+Once a manuscript is accepted, the authors receive an automated notification informing them of the acceptance and the provisional PDF will instantly appear online. Review editors are invited to publish a one-page joint commentary to be linked to the published article, however this is not mandatory. Payment of the publication fee is required within thirty days of acceptance and necessary before final publication of the manuscript.
+REJECTION
+Articles can only be rejected by the chief editor, while the associate editor who handles an article can only recommend to reject an article. The chief editor may override an associate editor's recommendation to reject the article and insist to call in further review editors to continue the review process.
+TIER 2
+If the submitted article is a Focused Review, i.e. a prestigious, invitation- only, tier 2 review highlighting an outstanding tier 1 article, the previous Associate and Review Editors are assigned the review of the new manuscript again (if available to take on the article). This manuscript is again written by the previous authors and is an abridged and revised version of the original article following the author guidelines for Focused Reviews. It requires a full peer review in regard to technical language, since it addresses a broader, less specialized community.
+If the submitted article is a Frontiers Commentary,i.e. a prestigious, invitation-only, tier 2 commentary emphasizing an outstanding tier 1 article, the original Specialty Chief Editor is assigned to review the new manuscript. This manuscript is written by the Associate or Review Editor/s who reviewed the original article and requires peer review in regard to technical language, since it addresses a less specialized community.
+Short Peer Review
+
+The following articles types are attributed a shortened peer review:
+Tier 1: Editorials, Book Reviews, and Classifications.
+Short peer reviews differ from full peer reviews mainly in two aspects: they are directly forwarded to the Interactive Review phase and they may be reviewed by the Associate Editor alone. It is up to the Associate Editor’s consideration if further reviewers are invited to the review process.
+Therefore, following the Frontiers online manuscript submission, an Associate Editor of the relevant Frontiers Specialty is immediately invited to take on the manuscript editorial assignment, which encompasses the role of the reviewer, too. Since no Independent Review Report is required, the Associate Editor directly activates the Interactive Review Forum by carrying out the review.
+Interactive Review, and article acceptance and rejection follow exactly the same rules established for full peer reviews.
