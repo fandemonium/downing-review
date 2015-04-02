@@ -1,0 +1,170 @@
+
+ A GUIDE FOR REVIEWERS 
+About EMBO Molecular Medicine 
+EMBO Molecular Medicine is dedicated to the publication of the results of original, cutting-edge research in the field of Molecular Medicine. 
+It will give priority to those articles that provide novel and relevant molecular insight into the cellular and systemic processes that underlie defined human diseases and that offer new perspectives for clinical application at the levels of diagnosis, prevention, treatment and/or therapy. 
+EMBO Molecular Medicine will publish research articles [full length and report format] and reviews relevant to all fields of clinical medicine and their related research areas in basic biology. Studies based on model organisms also fall within the scope of the journal, provided that the results presented are evidently and directly relevant to human disease. The Journal is owned and run by the European Molecular Biology Organization and is editorially independent of its publisher. 
+Criteria for publication 
+The review process 
+Selecting referees 
+Upon receiving a manuscript to review 
+Confidentiality 
+Writing a report 
+Editing referee reports 
+Timing 
+Conflicts of interest 
+Publication policy and ethical considerations 
+Feedback to referees 
+Getting help 
+
+Criteria for Publication 
+Research Articles and Reports submitted to EMBO Molecular Medicine are critically evaluated for compliance with the following criteria: 
+1. Technical quality (including statistical analysis) 
+2. Strong evidence for the conclusions that are drawn 
+3. Novelty 
+
+Guide for Reviewers - 1 
+
+4. Medical impact 
+5. Adequacy of model system 
+6. Clarity and interest for the non-specialist 
+
+All material for the reviews section is critically evaluated for compliance with the following criteria: 
+7. General interest and medical relevance 
+8. Novelty/timeliness 
+9. Clarity for the non-specialist 
+10. Balance 
+11. Use of figures and tables 
+12. Depth of analysis: integration and analysis of the literature cited 
+
+For Bridge the Gap articles, the following questions should also be taken in consideration: 
+1 Does the manuscript clearly define the ?gap? between ?bench? and ?bedside? in this particular case? 
+2 Does it put forward interesting and feasible suggestions to narrow the gap? Are these likely to be taken by the community? 
+
+The Review Process 
+All submitted manuscripts are read and carefully assessed by the editorial team for their potential suitability for publication. The manuscript may also be sent to a Senior Editor, Advisory Editorial Board member or a specialist in the field for further input toward this decision. To save authors and referees time, only those manuscripts judged most likely to meet our editorial criteria are sent out for formal review. 
+Manuscripts that qualify for in-depth review are usually sent to three referees, but in some cases additional referees may be consulted for specialist advice. Based on these assessments, the editor may decide to: 
+? accept the manuscript, with or without minor revision; 
+? invite the authors to revise the manuscript to address specific concerns before a final decision is reached ? this could include re-structuring the manuscript to be resubmitted as a report or research article; 
+Guide for Reviewers - 2 
+? reject the manuscript. Grounds for rejection typically include: specialist interest, lack of novelty, insufficient conceptual advance or major technical and/or interpretational problems. On some occasions the editor may reject the manuscript, but indicate to the authors that further work might justify a resubmission. 
+Referees may suggest a particular course of action in their confidential comments to the editor. They should, however, appreciate that editorial decisions are based on an evaluation of the strengths of the arguments raised by each referee, together with responses from the authors, and that the editors may have to make a decision based on conflicting advice. . 
+Selection of Referees 
+The review process is critically dependent on the quality of Referee reports. We strive to maintain a good balance between clinical and molecular-oriented views, and our choice of individual referees is a careful one, that is based on a number of factors, including expertise, reputation, and our previous experience with the referee. We do not use referees excluded by the authors, and avoid using referees who have repeatedly provided reports of low quality or who have returned reports after a long delay. We normally send manuscripts to referees only after having contacted them about the possibility first, and expect referees to treat even this initial request as confidential. 
+Upon Receiving a Manuscript to Review 
+To avoid unnecessary delays in processing manuscripts, please do the following immediately upon receipt of a manuscript for review: 
+? Double-check the deadline to ensure that there have been no misunderstandings regarding timing, and contact the editorial office immediately if you anticipate any difficulties in meeting it 
+? Skim the manuscript and consider whether there might be a conflict of interest for you (with the authors, their institution, their funding sources) and whether you can judge the article impartially 
+? Read the editor's letter carefully and be sure to note any points specific to the manuscript that the editor may have requested your opinion on. 
+
+Guide for Reviewers - 3 
+Confidentiality 
+Referees should treat the review process as being strictly confidential, and should keep the following guidelines in mind: 
+? Manuscripts refereed for EMBO Molecular Medicine should not be discussed with anyone not directly involved in the review process. 
+? If colleagues are consulted, they should be identified to the editors. Should you be unable to complete the review yourself and would like to pass the task on to senior coworkers, please identify them to the editors beforehand and justify your choice. If agreed, the editors will then reassign the review task to that person, allowing them to take credit and eliminating ambiguities about the source of the review. 
+? If experts from outside the referee's own laboratory are consulted, referees should check with the editors beforehand to avoid involving anyone who may have been excluded by the editor or the authors. 
+? Referees should, as a rule, not disclose their identities to the authors or to other colleagues since they may be asked to comment on the criticisms of other referees and may then find it difficult to be objective. Should they feel strongly about making their identities known to the authors, they should do so via the editor. We strongly disapprove of any attempt by authors to determine the identities of referees or to confront them, and encourage referees to neither confirm nor deny any speculation in this regard. 
+
+Writing a Report 
+Research articles and Reports: Referees should bear in mind that the primary purpose of a referee report is to provide the editors with the information that they need to reach a decision. Nevertheless they should also instruct the authors on how to strengthen their manuscript if they consider that revision is a possibility. Referees are asked to complete a summary sheet for the submission of confidential comments to the editor, but should also provide a summary that can be directly transmitted to the authors along with the more specific comments. We recommend the following division of the report: 
+Comments for transmission to the authors 
+Referees are asked to maintain a positive and impartial, but critical, attitude in evaluating manuscripts. Criticisms should remain dispassionate; offensive language is not acceptable. As far as possible, a negative report should explain to the authors the weaknesses of their manuscript, so that they can understand the 
+Guide for Reviewers - 4 
+basis for a decision to ask for revision or to reject the manuscript. Similarly, positive reports should explain the reasons for why a study would be seen as an important advance of wider medical significance. The ideal report should include: 
+? An initial paragraph that summarizes the major findings and the referee's overall impressions, as well as highlighting major shortcomings of the manuscript. 
+? Specific numbered comments, which may be broken down into major and minor criticisms if appropriate (numbering facilitates both the editor's evaluation of the manuscript and the authors' rebuttal to the report). 
+
+The report should answer the following questions: 
+? What are the major claims and how significant are they? 
+? Are the claims novel and convincing? 
+? Are the claims appropriately discussed in the context of earlier literature? 
+? Is the study important to the field? 
+? Does the paper stand out in some way from the others in its field? 
+? Is it also of interest to more than a specialized audience? 
+? Are there other experiments that would strengthen the paper? 
+
+For manuscripts that may merit further consideration, it is also helpful if referees can provide advice on the following points where appropriate: 
+? How the clarity of the writing might be improved (without necessarily going into specific details of spelling and grammar) 
+? How the manuscript might be shortened 
+? How to do the study justice without overselling the claims 
+? How to represent earlier literature more fairly 
+? How to improve the presentation of methodological detail so that the experiments can be reproduced 
+? The submission of supplementary data on the journal?s web site to enhance the presentation (depositing, for example, movies, microarray data, detailed methods, patient?s descriptions, mathematical derivations, long tables, etc). 
+? Which of the journal's format [full length or short report] would be better suited for the manuscript 
+
+Guide for Reviewers - 5 
+This report for the author should NOT include a recommendation regarding publication since the final decision regarding acceptance, revision or rejection rests with the editor. 
+Confidential evaluation 
+The manuscript should be rated, either on the form provided or in an e-mail, according to the following: 
+1. Technical quality (including statistical analysis) 
+2. Strength of the evidence for the conclusions drawn 
+3. Novelty 
+4. Medical impact 
+5. Adequacy of model system 
+6. Clarity and Interest for the non-specialist 
+
+Additional comments to the editor might include: 
+? A definite recommendation regarding publication 
+? An assessment of how any suggested additional experiments would improve the manuscript, and of how difficult they would be to complete within a reasonable timeframe (3 months). In particular, referees should clearly indicate which experiments would be essential for a manuscript to become acceptable (subject to the results obtained). 
+? In cases where the manuscript is unacceptable in its present form, an opinion about whether the study is sufficiently promising to encourage a new submission in the future. 
+? Suitability of the title of the manuscript and, if applicable, suggestions for an alternative title. 
+? Advice on whether the manuscript is outstanding and worth highlighting. 
+? In case that revision can be recommended, an indication whether the referee considers it important to see an eventual revised version. 
+
+In Focus, Reviews and Bridge the Gap: The primary purpose of the referee report is to provide the editors with the information that they need to reach a decision, but referees should also make recommendations to the authors on how to strengthen their manuscript if revision is a possibility. Referees are asked to 
+Guide for Reviewers - 6 
+complete a summary sheet for the submission of confidential comments to the editor. They should also provide a summary that can be directly transmitted to the authors along with the more specific comments. We recommend the following division of the report: 
+Comments for transmission to the authors 
+Referees are asked to maintain a positive and impartial, but critical, attitude in evaluating manuscripts. Criticisms should remain dispassionate; offensive language is not acceptable. As far as possible, a negative report should explain to the authors the weaknesses of their manuscript, so that they can understand the basis for a decision to ask for revision or to reject the manuscript. Similarly, positive reports should explain the reasons for why such a piece would be seen as an important advance of wider medical significance. The ideal report should include: 
+? An initial paragraph that summarizes the manuscript and the referee's overall impressions, as well as highlighting the strengths and shortcomings of the manuscript. 
+? Specific numbered comments, which may be broken down into major and minor criticisms if appropriate (numbering facilitates both the editor's evaluation of the manuscript and the authors' rebuttal to the report). 
+
+The report should answer the following questions: 
+? Is the review original, timely and important to scientists in the specific field? 
+? Is the piece informative and accurate? 
+? Is it accessible to researchers outside of this specific field? 
+? Is the literature presented in a fair and balanced manner? 
+? Does the piece stand out in some way from the others in its field? Does it bring new ideas and concepts to the field? 
+? Are there other topics that should be discussed to strengthen the paper? 
+
+For manuscripts that may merit further consideration, it is also helpful if referees can provide advice on the following points where appropriate: 
+? How the clarity of the writing might be improved (without necessarily going into specific details of spelling and grammar) 
+
+Guide for Reviewers - 7 
+
+? How to represent literature more fairly 
+? How to improve its presentation. Also refer to the use of tables, figures, graphs, etc 
+? Which of the journal's format [In Focus, Review, Bridge the Gap] would be better suited for the manuscript 
+
+This report for the author should NOT include a recommendation regarding publication since the final decision regarding acceptance, revision or rejection rests with the editor. 
+Confidential evaluation 
+The manuscript should be rated, either on the form provided or in an e-mail, according to the following: 
+1) Medical impact and interest 2) Novelty/Timeliness 3) Clarity Language and Style 4) Use of Figures and Tables 5) Depth of Analysis 6) Accuracy of statements 
+For Bridge the Gap articles, the following questions should also be taken in consideration: 
+7) Does the manuscript clearly define the ?gap? between ?bench? and ?bedside? in this particular case? 
+8) Does it put forward interesting and feasible suggestions to narrow the gap? Are these likely to be taken up by the community? 
+Additional comments to the editor might include: 
+? A definite recommendation regarding publication 
+? In cases where the manuscript is unacceptable in its present form, an opinion about whether the piece or the topic is sufficiently promising to encourage a new submission in the future. 
+? Suitability of the title of the manuscript and, if applicable, suggestions for an alternative title. 
+
+Guide for Reviewers - 8 
+
+? Advice on whether the manuscript is outstanding and worth highlighting. 
+? In case that revision can be recommended, an indication whether the referee considers it important to see an eventual revised version. 
+
+Editing Referee Reports 
+We do not suppress or modify referee reports, but may, on rare occasions edit a report in which the referee has made an inadvertent but obvious factual mistake, or we may remove offensive language or any comments that reveal confidential information. In cases where the overall recommendation or opinion appears to be insufficiently mirrored in the comments to the authors, we may ask the referee to rephrase the relevant section(s) of the report. We further ask referees to avoid saying anything that may cause offence, but we also expect authors to recognize that criticism is not necessarily unfair or that it clouds the editor's judgment because it is robustly expressed. 
+Timing 
+EMBO Molecular Medicine is committed to rapid editorial decisions and publication as efficiency in this process is a valuable service both to our authors and the Molecular Medicine community as a whole. We therefore ask that referees respond promptly or inform us if they anticipate a significant delay. This allows us to keep the authors informed and, where necessary, find alternative referees. 
+Conflicts of Interest 
+We honor the authors' request to exclude certain individuals as referees due to potential conflicts of interest. In rare cases where an unreasonably high number of experts are excluded, we may however request a more restricted exclusion list from the authors. We also try to avoid referees who: have recent or ongoing collaborations with the authors, have commented on drafts of the manuscript, are in direct competition, have a history of dispute with the authors, or have a financial interest in the outcome. Because it is not possible for the editors to know of all possible biases, however, we ask referees to draw our attention to anything that might affect their report, including commercial interests, and to decline to referee in cases where they feel unable to be objective. We do not find it necessary to exclude referees who have reviewed a paper for another journal; the fact that two journals have independently identified a particular person as well qualified to referee a paper does not decrease the validity of her/his opinion in our view. 
+Guide for Reviewers - 9 
+Publication Policy and Ethical Considerations 
+In spite of our best efforts to identify breaches of publication policy or ethical conduct, such as authorship issues, plagiarism or author conflict of interest, the referees who are more familiar with the field are more likely to recognize such problems and should alert the editors to any potential problems in this regard, either by e-mail or using the confidential comments to the editor. 
+Please inform the editor should you suspect data fabrication or image manipulation. 
+Feedback to Referees 
+Once a final decision on a manuscript has been reached, it is our policy to inform all referees of that decision and to send copies of the other referee reports. Referees who find that their recommendations have been overruled should realize that this does not imply any lack of confidence in their judgment. It is not uncommon for experts to disagree and, in the absence of a consensus the editors must still reach a decision one way or the other. When we ask referees to re-review a manuscript that has been revised in response to their criticisms, we also send them copies of the all the original comments of all reviewers. 
+Getting Help 
+For additional help, please contact the journal office: info@embomoldmed.org. 
+Guide for Reviewers - 10

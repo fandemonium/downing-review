@@ -1,0 +1,12 @@
+The purpose of the review is to provide the academic and professional editors with an expert opinion regarding the quality of the manuscript under consideration, and should also supply authors with explicit feedback on how to improve their papers so that they will be acceptable for publication inÿPLOS Medicine. In the interests of complete transparency we do not allow confidential comments for the editors. Please therefore assume that all the comments you make will be transmitted to the authors. The best possible review would answer the following questions:
+* What are the main claims of the paper and how important are they?
+* Are these claims novel? If not, please specify papers that weaken the claims to the originality of this one.
+* Are the claims properly placed in the context of the previous literature?
+* Do the results support the claims? If not, what other evidence is required?
+* If a protocol is provided, for example for a randomized controlled trial, are there any important deviations from it? If so, have the authors explained adequately why the deviations occurred?
+* Would any other experiments or additional information improve the paper? How much better would the paper be if this extra work was done, and how difficult would such work be to do, or to provide?
+* Is this paper outstanding in its discipline? (For example, would you like to see this work presented in a seminar at your hospital or university? Do you feel these results need to be incorporated in your next general lecture on the subject?) If yes, what makes it outstanding? If not, why not?
+* Who would find this paper of interest? Why?
+* If the paper is considered unsuitable for publication in its present form, does the study itself show sufficient enough potential that the authors should be encouraged to resubmit a revised version?
+
+

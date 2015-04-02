@@ -1,0 +1,77 @@
+General information
+Contributions submitted to Royal Society journals that are selected for peer review are usually sent to two or more, independent referees. Authors are welcome to suggest suitable referees, which the Society may consider.
+The referees' reports constitute recommendations to the Editor, who will be responsible for accepting or rejecting submissions.
+Journal scope
+Articles in those cross-disciplinary subjects which encompass both the life and physical sciences may be published inÿInterface, providing they are of high quality and likely to be of interest to a broad readership. Authors are strongly encouraged to write in a style which is accessible to both sides of the life/physical sciences divide.ÿInterfaceÿwelcomes articles on a diverse range of topics including, but not limited to:
+* biocomplexity
+* bioengineering
+* bioinformatics
+* biomaterials
+* biomechanics
+* bionanoscience
+* biophysics
+* chemical biology
+* computer science (as applied to the life sciences)
+* medical physics
+* synthetic biology
+* systems biology
+* theoretical biology
+* tissue engineering
+The following gives some guidelines on objectives:
+"Interfaceÿis a new international journal publishing papers from the interface between the physical sciences, including mathematics, and the life sciences. It provides a high-quality forum to publish rapidly and interact across this boundary in two main ways:ÿInterfaceÿpublishes research applying chemistry, engineering, materials science, mathematics and physics to the biological and medical sciences; it also highlights discoveries in the life sciences that allow advances in the physical sciences. Both sides of the interface are considered equally."
+Submission types
+Research Articlesÿare contributions up toÿ8000ÿwords containing original scientific research.
+Reportsÿare short, letter-style contributions (up toÿ2500ÿwords), which are published rapidly. Preliminary and more speculative work of high-quality is strongly encouraged.
+Both articles and reports should be written for audiences in a wide range of disciplines.
+Reviewsÿare articles of the highest quality and aim to be of interest to communities working at the physical sciences-life sciences interface. Reviews cover the latest developments in an area of cross-disciplinary research. They put such research into a wider context and are written in a style that makes them accessible to readers in a wide range of disciplines. Reviews are normally published by invitation; however, we are also keen to receive proposals for prospective articles. Complete literature surveys are not encouraged. They should be betweenÿ8 - 12000ÿwords.
+Discussionsÿare short review-type papers of the highest quality and aim to be of interest to communities working at the physical sciences - life sciences interface. We do encourage you to speculate in an informed way and to be topical and provocative about the subject. The provisional target length isÿ2 - 3000ÿwords. We also encourage authors to write in a style that makes them accessible to readers in a wide range of disciplines.
+Publishing criteria
+The review process will give equal weighting to sciences on both sides of the interface. The criteria for acceptance are: work of outstanding quality and international importance, originality and interest across disciplines. To be acceptable for publication a paper should represent a significant advance in its field, rather than something incremental.
+Submission of referee reports
+Referee reports should be submitted over the internet using the secure Manuscript Central website:
+http://mc.manuscriptcentral.com/jrsi
+The report form asks a series of multiple choice questions and has space for comments to the authors and additional confidential comments to the Editor.
+Referees may ask to see supporting data not submitted for publication, or a previous article submitted but not yet published.
+We ask that referees review all supplementary material accompanying the article and ensure the following checks are made:
+* The data supports the findings of the article
+* References should be in the main article rather than in the supplementary material - references will be checked and the sources will be properly credited (in Web of Science etc.)
+* All relevant database accession numbers must be included (we require authors to deposit datasets in recognised public domain databases).
+Refereeing policy
+Publishing Ethics policy
+This describes the Royal Society's position on the major ethical principles of academic publishing. Authors, editors and referees are asked to comply with thisÿpolicy.
+
+We strongly encourage authors to comply with the Animal Research: In Vivo Experiments (ARRIVE) guidelines. Relevant information should be included in the appropriate section of the article, as outlined in theÿARRIVEÿguidelines.
+
+The Committee on Publication Ethics (COPE) have publishedÿethical guidelines for peer reviewersÿthat provide basic guidance on the principles and standards that peer reviewers are expected to adhere to.
+
+Anonymity
+It is the policy of the Society that the names of referees are kept confidential, unless otherwise requested by referees in their report.
+
+Confidentiality
+When agreeing to referee a article, all referees undertake to keep the article confidential, and not to redistribute it without permission from the Society. If the advice of colleagues is sought, referees must inform the Editorial Office and ensure that confidentiality is maintained.
+
+Conflicts of interest
+Where referees have a conflict of interest (eg competing commercial interest or a personal association that could bias judgement) this should be declared upon invitation to referee.
+
+Speed of refereeing
+The Society endeavours to keep time from submission to publication as short as possible. Therefore, we usually ask referees to report back within three weeks of receiving the manuscript. In certain instances, an extension to this time may be granted by the Editorial Office, but should be agreed in advance.
+
+If referees are unable to report, it is requested that the Editorial Office is informed as soon as possible so that the assessment process is not delayed. Where referees find they are unable to review the assigned manuscript, the Editor welcomes suggestions of alternative referees competent to review it. These suggestions should be passed to the Editorial Office.
+
+Resubmissions
+For some rejected articles, the authors will be allowed to submit a revised version. In these cases, one or more of the original referees will be sent the revised article and asked to review it and comment on authors' replies to their criticisms of the original version. This is extremely useful as the original referee can determine whether their queries have been fully addressed.
+
+Adjudicationÿ
+In some cases of a substantial disparity between referee reports, an adjudicator may be sought. Adjudicators are sent the referee reports and the full article and asked to advise the Editor. Editorial Board members are often invited to be Adjudicators.
+
+Appeals
+Authors have the right to appeal a rejection decision if they regard it as unfair. In this circumstance, referees may be asked by the Editor to comment on issues raised by the authors.
+
+Notification of final decision
+When requested by referees we will provide notification of the Editor's ultimate decision.
+
+Data protection
+Referee details are entered on our editorial database to ensure that we can process articles efficiently. In accordance with the Data Protection Act, referees are informed that the data will be used for processing articles for publication as well as for general administrative purposes.
+We strive to protect the security of information which you provide to us, and will use up-to-date measures to provide such security.
+ÿ
+
